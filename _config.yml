@@ -9,7 +9,7 @@ permalink:        pretty
 name:             "bdehoyos.me"
 title:            "Bruno De Hoyos"
 tagline:          "Computer Science | Mechanical Engineering"
-description:      "A description goes here"
+description:      'Welcome to my website! I am currently a student at <a href="http://utexas.edu" target="_blank">The University of Texas at Austin</a> and you can find my most recent projects here. Feel free to add me on <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>! :]'
 url:              http://localhost:4000/
 paginate:         5
 
