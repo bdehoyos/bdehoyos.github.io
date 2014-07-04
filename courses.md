@@ -3,8 +3,6 @@ layout: page
 title: Related Courses
 ---
 
-## Related Courses
-
 ### Summer 2014
 
 - ME 338 - Machine Elements
