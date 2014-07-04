@@ -1,30 +1,29 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My name is Bruno De Hoyos and I am a third year student at The University of Texas at Austin. I am currently pursuing a Bachelors of Science in mechanical engineering and computer science, and hope to graduate in the 2016 spring semester. I enjoy taking things apart and learning how they work, as well as working on small programming projects to entertain myself during the weekends.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+If you find anything on this site interesting and have any questions, feel free to contact me via LinkedIn or through my email address: bdehoyos [at] utexas [dot] edu
 
-There are currently two themes built on Poole:
+### Languages
+- English, fluent
+- Spanish, fluent
+- French, basic conversational
+- C/C++, familiar
+- Java, familiar
+- MATLAB, proficient
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Activities & Societies
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- American Society of Mechanical Engineers (ASME)
+- Society of Hispanic Professional Engineers (SHPE)
+- UT IEEE Robotics and Automation Society (RAS)
 
-## Setup
+### Awards:
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+- College Scholar, Spring 2014
+- University Honors, Fall 2012 - Present
+- Equal Opportunity in Engineering (EOE) Academic Scholar, High Honor Roll 2012 - 2013
+- AP Scholar with Distinction
