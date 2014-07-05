@@ -4,7 +4,7 @@
  <title>Bruno De Hoyos</title>
  <link href="http://bdehoyos.me/atom.xml" rel="self"/>
  <link href="http://bdehoyos.me/"/>
- <updated>2014-07-05T14:24:10-05:00</updated>
+ <updated>2014-07-05T14:49:16-05:00</updated>
  <id>http://bdehoyos.me</id>
  <author>
    <name>Bruno De Hoyos</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>Cardboard Lamborghini Gallardo</title>
    <link href="http://bdehoyos.me/projects/lambo"/>
-   <updated>2014-07-05T00:00:00-05:00</updated>
+   <updated>2014-07-04T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/cardboard-lambo</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/car_small.JPG&quot; alt=&quot;The cardboard Lamborghini.&quot; title=&quot;The finished product.&quot;&gt;&lt;/p&gt;
 
