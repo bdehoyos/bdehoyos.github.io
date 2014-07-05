@@ -8,9 +8,9 @@ Stay tuned!
 
 ---
 
-# [Cardboard Lamborghini Gallardo]({{ site.ur. }}/projects/lambo/)
+# [Cardboard Lamborghini Gallardo]({{ site.url }}/projects/lambo/)
 
-![complete top left](/assets/car_small.jpg "The finished product.")
+![complete top left](/assets/car_small.JPG "The finished product.")
 
 <div class="message">
 A project for my sculpture class in high school.
