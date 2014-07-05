@@ -3,7 +3,7 @@ layout: page
 title: Work Experience
 ---
 
-### Student Technician, Applied Research Laboratories
+### Student Technician, [Applied Research Laboratories](http://www.arlut.utexas.edu/)
 #### May 2013 - December 2013
 
 - Worked primarily in MATLAB to perform statistical data analysis and various forms of data processing of ocean environment database
@@ -24,7 +24,7 @@ title: Work Experience
 
 ---
 
-### Math Tutor, Mathnasium Learning Center
+### Math Tutor, [Mathnasium Learning Center](http://www.mathnasium.com/)
 #### August 2011 - August 2012
 
 - Worked with students to improve overall math proficiency by over 30%

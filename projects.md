@@ -5,3 +5,15 @@ title: Projects
 
 Under construction :\
 Stay tuned!
+
+---
+
+# [Cardboard Lamborghini Gallardo]({{ site.ur. }}/projects/lambo/)
+
+![complete top left](/assets/car_small.jpg "The finished product.")
+
+<div class="message">
+A project for my sculpture class in high school.
+</div>
+
+---

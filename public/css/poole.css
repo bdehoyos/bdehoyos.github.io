@@ -70,6 +70,9 @@ a {
   color: #268bd2;
   text-decoration: none;
 }
+a strong {
+  color: inherit;
+}
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
@@ -95,9 +98,13 @@ h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
 }
-h4, h5, h6 {
+h4 {
   margin-top: 1rem;
   font-size: 1rem;
+}
+h5, h6 {
+  margin-top: 1rem;
+  font-size: 0.75rem;
 }
 
 /* Body text */
@@ -228,7 +235,7 @@ img {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 /* Tables */
