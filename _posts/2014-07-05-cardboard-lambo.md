@@ -4,7 +4,7 @@ title: Cardboard Lamborghini Gallardo
 permalink: projects/lambo
 ---
 
-![complete top left](/assets/car_small.jpg "The finished product.")
+![complete top left]({{ base.url }}/assets/car_small.jpg "The finished product.")
 
 > *I worked on this project way back in October and November of 2010 during my junior year in high school, as part of an assignment for my sculpture class.*
 
