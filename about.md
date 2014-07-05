@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-My name is Bruno De Hoyos and I am a third year student at The University of Texas at Austin. I am currently pursuing a Bachelors of Science in mechanical engineering and computer science, and hope to graduate in the 2016 spring semester. I enjoy taking things apart and learning how they work, as well as working on small programming projects to entertain myself during the weekends.
+My name is Bruno De Hoyos and I am a third year student at The University of Texas at Austin. I am currently pursuing a Bachelor of Science in mechanical engineering and computer science, and hope to graduate in the 2016 spring semester. I enjoy taking things apart and learning how they work, as well as working on small programming projects to entertain myself during the weekends.
 
 If you find anything on this site interesting and have any questions, feel free to contact me via LinkedIn or through my email address: bdehoyos [at] utexas [dot] edu
 
