@@ -3,8 +3,14 @@
   
   
   <url>
-    <loc>http://bdehoyos.me/projects/lambo</loc>
+    <loc>http://bdehoyos.me/projects/bike-bell</loc>
     <lastmod>2014-07-05T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://bdehoyos.me/projects/lambo</loc>
+    <lastmod>2014-07-04T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   
@@ -17,42 +23,42 @@
   
   <url>
     <loc>http://bdehoyos.me/404.html</loc>
-    <lastmod>2014-07-05T14:23:05-05:00</lastmod>
+    <lastmod>2014-07-05T20:33:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://bdehoyos.me/about/</loc>
-    <lastmod>2014-07-05T14:23:05-05:00</lastmod>
+    <lastmod>2014-07-05T20:33:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://bdehoyos.me/courses/</loc>
-    <lastmod>2014-07-05T14:23:05-05:00</lastmod>
+    <lastmod>2014-07-05T20:33:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://bdehoyos.me/</loc>
-    <lastmod>2014-07-05T14:23:05-05:00</lastmod>
+    <lastmod>2014-07-05T20:33:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://bdehoyos.me/projects/</loc>
-    <lastmod>2014-07-05T14:23:05-05:00</lastmod>
+    <lastmod>2014-07-05T20:33:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://bdehoyos.me/work/</loc>
-    <lastmod>2014-07-05T14:23:05-05:00</lastmod>
+    <lastmod>2014-07-05T20:33:48-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
