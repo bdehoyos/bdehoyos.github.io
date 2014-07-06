@@ -18,7 +18,7 @@ If you find anything on this site interesting and have any questions, feel free 
 ### Skills
 - SolidWorks
 - Arduino
-- Milling machines, lathes
+- Milling machines, lathes (machine shop certified)
 - Assembly language
 - Microsoft Office
 - Adobe Photoshop

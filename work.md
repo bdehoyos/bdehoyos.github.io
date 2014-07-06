@@ -13,7 +13,7 @@ title: Work Experience
 
 ---
 
-### Team Member, Reverse-Engineering of a Bicycle Bell
+### Team Member, [Reverse-Engineering of a Bicycle Bell](/projects/bike-bell/)
 #### August 2012 - December 2012
 
 - Served as team leader during dissection and sketching portions of project
