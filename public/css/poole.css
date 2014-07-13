@@ -282,6 +282,14 @@ tbody tr:nth-child(odd) th {
   background-color: #f5f5f5;
 }
 
+.sitemessage {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: #F2F5A9;
+  border-radius: 10px;
+}
+
 
 /*
  * Container
