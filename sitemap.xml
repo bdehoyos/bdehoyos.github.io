@@ -3,6 +3,36 @@
   
   
   <url>
+    <loc>http://bdehoyos.me/projects/robot_2</loc>
+    <lastmod>2014-07-17T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://bdehoyos.me/projects/robot_1</loc>
+    <lastmod>2014-07-17T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://bdehoyos.me/projects/circuit</loc>
+    <lastmod>2014-07-17T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://bdehoyos.me/projects/calculator</loc>
+    <lastmod>2014-07-17T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://bdehoyos.me/projects/arduino</loc>
+    <lastmod>2014-07-17T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://bdehoyos.me/projects/bike-bell</loc>
     <lastmod>2014-07-05T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
@@ -23,42 +53,42 @@
   
   <url>
     <loc>http://bdehoyos.me/404.html</loc>
-    <lastmod>2014-07-13T01:07:09-05:00</lastmod>
+    <lastmod>2014-07-18T00:46:40-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://bdehoyos.me/about/</loc>
-    <lastmod>2014-07-13T01:07:09-05:00</lastmod>
+    <lastmod>2014-07-18T00:46:40-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://bdehoyos.me/courses/</loc>
-    <lastmod>2014-07-13T01:07:09-05:00</lastmod>
+    <lastmod>2014-07-18T00:46:40-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://bdehoyos.me/</loc>
-    <lastmod>2014-07-13T01:07:09-05:00</lastmod>
+    <lastmod>2014-07-18T00:46:40-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://bdehoyos.me/projects/</loc>
-    <lastmod>2014-07-13T01:07:09-05:00</lastmod>
+    <lastmod>2014-07-18T00:46:40-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://bdehoyos.me/work/</loc>
-    <lastmod>2014-07-13T01:07:09-05:00</lastmod>
+    <lastmod>2014-07-18T00:46:40-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
