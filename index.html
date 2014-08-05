@@ -5,7 +5,8 @@ title: Home
 
 <div class="sitemessage">
   <img src="/assets/alert3.png" alt="NOTE:" height="50" width="50" align="left">
-  This site is currently being updated with new content. Please visit back frequently for new updates. :)
+  This site is currently being updated with new content. Please visit back frequently for the latest updates. :)
+  <br><little>Updated: 08/05/2014
 </div>
 
 <div class="posts">
@@ -17,7 +18,16 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">
+      {{ post.date | date_to_string }}
+
+      {% if post.content contains "<!--comingsoon-->" %}
+      
+        <comingsoon>coming soon</comingsoon>
+      
+      {% endif %}
+
+    </span>
 
     {{ post.excerpt }}
 

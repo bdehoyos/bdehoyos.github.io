@@ -4,7 +4,7 @@
  <title>Bruno De Hoyos</title>
  <link href="http://bdehoyos.me/atom.xml" rel="self"/>
  <link href="http://bdehoyos.me/"/>
- <updated>2014-08-02T16:18:56-05:00</updated>
+ <updated>2014-08-05T11:18:40-05:00</updated>
  <id>http://bdehoyos.me</id>
  <author>
    <name>Bruno De Hoyos</name>
@@ -21,9 +21,9 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Robot 2 = robot 1 + Arduino Uno + H-bridge + ultrasonic sensors - infrared sensors - servo - PICAXE. Whew. Summer 2014.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;[more coming soon]&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;!--comingsoon--&gt;
 </content>
  </entry>
  
@@ -36,9 +36,9 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;A robot I built and programmed from a robot starter kit. Winter 2013.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;[more coming soon]&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;!--comingsoon--&gt;
 </content>
  </entry>
  
@@ -51,9 +51,9 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;A simple decade counting circuit done in my mechatronics class. Really cool. Summer 2014.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;[more coming soon]&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;!--comingsoon--&gt;
 </content>
  </entry>
  
@@ -66,9 +66,9 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;My first working iOS app. Still under development. Summer 2014.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;[more coming soon]&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;!--comingsoon--&gt;
 </content>
  </entry>
  
@@ -81,9 +81,9 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;My first encounter with the infamous Arduino. Summer 2014.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;[more coming soon]&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;!--comingsoon--&gt;
 </content>
  </entry>
  

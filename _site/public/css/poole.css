@@ -61,8 +61,18 @@ html {
 body {
   color: #515151;
   background-color: #fff;
+
+  background: -moz-linear-gradient(top,  #FFFFFF 0%, #EFEFEF 100%);
+  background: -webkit-gradient(linear, left top, left bottom, 
+      color-stop(0%,#FFFFFF), color-stop(100%,#EFEFEF));
+  background: -webkit-linear-gradient(top,  #FFFFFF 0%,#EFEFEF 100%);
+  background: -o-linear-gradient(top,  #FFFFFF 0%,#EFEFEF 100%);
+  background: -ms-linear-gradient(top,  #FFFFFF 0%,#EFEFEF 100%);
+  background: linear-gradient(to bottom,  #FFFFFF 0%,#EFEFEF 100%);
+
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+  background-attachment: fixed;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
@@ -115,6 +125,11 @@ p {
 
 strong {
   color: #303030;
+}
+
+little {
+  margin-left: 30%;
+  font-size: 70%;
 }
 
 
@@ -290,6 +305,24 @@ tbody tr:nth-child(odd) th {
   border-radius: 10px;
 }
 
+comingsoon {
+  color: #fff;
+  padding:  5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 0.7rem;
+  background-color: #505050;
+  margin-left: 10px;
+  border-radius: 3px;
+  position: relative;
+    top: -3px;
+}
+
+/* Nice colors
+ * default blue: 44A2CA
+ * orange: E98E38
+ * dark gray: 505050
+ */
 
 /*
  * Container

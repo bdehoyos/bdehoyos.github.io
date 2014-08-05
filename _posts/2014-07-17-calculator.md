@@ -8,4 +8,4 @@ permalink: projects/calculator
 
 > *My first working iOS app. Still under development. Summer 2014.*
 
-> *[more coming soon]*
+<!--comingsoon-->
