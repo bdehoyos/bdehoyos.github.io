@@ -4,7 +4,7 @@
  <title>Bruno De Hoyos</title>
  <link href="http://bdehoyos.me/atom.xml" rel="self"/>
  <link href="http://bdehoyos.me/"/>
- <updated>2014-08-05T11:18:40-05:00</updated>
+ <updated>2014-09-04T17:07:45-05:00</updated>
  <id>http://bdehoyos.me</id>
  <author>
    <name>Bruno De Hoyos</name>
@@ -17,10 +17,10 @@
    <link href="http://bdehoyos.me/projects/robot_2"/>
    <updated>2014-07-17T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/robot2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/robot2_s_cs.jpg&quot; alt=&quot;Robot, second generation.&quot; title=&quot;Robot, second generation.&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/robot2_s_cs.jpg&quot; alt=&quot;Robot, second generation.&quot; title=&quot;Robot, second generation.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Robot 2 = robot 1 + Arduino Uno + H-bridge + ultrasonic sensors - infrared sensors - servo - PICAXE. Whew. Summer 2014.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;Robot 2 = robot 1 + Arduino Uno + H-bridge + ultrasonic sensors - infrared sensors - servo - PICAXE. Whew. Summer 2014.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--comingsoon--&gt;
@@ -32,13 +32,58 @@
    <link href="http://bdehoyos.me/projects/robot_1"/>
    <updated>2014-07-17T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/robot</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/robot_s_cs.jpg&quot; alt=&quot;Robot, first generation.&quot; title=&quot;Robot, first generation.&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/robot_s_cs.jpg&quot; alt=&quot;Robot, first generation.&quot; title=&quot;Robot, first generation.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;A robot I built and programmed from a robot starter kit. Winter 2013.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;A robot I built and programmed from a robot starter kit. Winter 2013.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--comingsoon--&gt;
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;parts-list&quot;&gt;Parts List&lt;/h2&gt;
+
+&lt;p&gt;Bundled with the robot kit were the following items:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/robot_pics/raw/picaxe.jpg&quot; alt=&quot;Flowers&quot; title=&quot;Picaxe.&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/header_pins.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/robot_pics/raw/jumper_blocks.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/heat_shrink.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/jumper_cables.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/picaxe_cable.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/chip1.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/chip2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/servo.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/infrared.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/battery_holders.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/wheels.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/motors.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/sticky_tape.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/parts_list.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/stripped_wire.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/infrared_conn.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/board_conn1.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/board_conn2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/splicing.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/connections1.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/connections2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/splicing2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/covering.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/pre_assembly.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/pre_side.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/battery_bottom.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/battery_bottom2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/battery_bottom3.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/top_view.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/angle_view.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/final1.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/final2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/final3.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/raw/final4.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;building-the-robot&quot;&gt;Building the Robot&lt;/h1&gt;
+
 </content>
  </entry>
  
@@ -47,10 +92,10 @@
    <link href="http://bdehoyos.me/projects/circuit"/>
    <updated>2014-07-17T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/counter</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/circuit_s_cs.jpg&quot; alt=&quot;Counting circuit.&quot; title=&quot;Counting circuit.&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/circuit_s_cs.jpg&quot; alt=&quot;Counting circuit.&quot; title=&quot;Counting circuit.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;A simple decade counting circuit done in my mechatronics class. Really cool. Summer 2014.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;A simple decade counting circuit done in my mechatronics class. Really cool. Summer 2014.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--comingsoon--&gt;
@@ -62,10 +107,10 @@
    <link href="http://bdehoyos.me/projects/calculator"/>
    <updated>2014-07-17T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/calculator</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/calc_s_cs.jpg&quot; alt=&quot;My calculator app.&quot; title=&quot;My calculator app.&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/calc_s_cs.jpg&quot; alt=&quot;My calculator app.&quot; title=&quot;My calculator app.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;My first working iOS app. Still under development. Summer 2014.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;My first working iOS app. Still under development. Summer 2014.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--comingsoon--&gt;
@@ -77,10 +122,10 @@
    <link href="http://bdehoyos.me/projects/arduino"/>
    <updated>2014-07-17T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/arduino</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/ardu_s_cs.jpg&quot; alt=&quot;Simple Arduino circuit.&quot; title=&quot;Simple Arduino circuit.&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/ardu_s_cs.jpg&quot; alt=&quot;Simple Arduino circuit.&quot; title=&quot;Simple Arduino circuit.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;My first encounter with the infamous Arduino. Summer 2014.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;My first encounter with the infamous Arduino. Summer 2014.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--comingsoon--&gt;
@@ -92,57 +137,54 @@
    <link href="http://bdehoyos.me/projects/bike-bell"/>
    <updated>2014-07-05T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/bike-bell</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/exploded_drawing.jpg&quot; alt=&quot;Exploded view drawing.&quot; title=&quot;Exploded view drawing&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/exploded_drawing.jpg&quot; alt=&quot;Exploded view drawing.&quot; title=&quot;Exploded view drawing&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;A project for the &amp;#39;Introduction to Engineering Design and Graphics&amp;#39; course for mechanical engineers.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;A project for the ‘Introduction to Engineering Design and Graphics’ course for mechanical engineers.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;My first college engineering class ever, &amp;#39;Introduction to Engineering Design and Graphics&amp;#39;, was one of the most fun and engaging courses of my freshmen year. Throughout the semester, I learned about drafting conventions used by engineers, 3D computer-aided design modeling, rapid prototyping technologies, and basic manufacturing processes. The course was combined with a semester-long project in which teams reverse-engineered a simple mechanically driven machine, analyzed and drafted its components, and finally recreated all its parts using 3D modeling software and a 3D printer.&lt;/p&gt;
+&lt;p&gt;My first college engineering class ever, ‘Introduction to Engineering Design and Graphics’, was one of the most fun and engaging courses of my freshmen year. Throughout the semester, I learned about drafting conventions used by engineers, 3D computer-aided design modeling, rapid prototyping technologies, and basic manufacturing processes. The course was combined with a semester-long project in which teams reverse-engineered a simple mechanically driven machine, analyzed and drafted its components, and finally recreated all its parts using 3D modeling software and a 3D printer.&lt;/p&gt;
 
 &lt;p&gt;My group and I decided to work on a bicycle bell for this project, which had few parts and was completely driven by gears and springs. The initial stages of the project consisted of disassembling the bell into all its components and analyzing them to determine the purpose they served in the machine as well as determining the material of the parts and the most probable method used to produce them.&lt;/p&gt;
 
 &lt;p&gt;After we had been introduced to proper drafting conventions, the next stage of the project was to measure and draw each part to scale in isometric projection, by hand. The picture below shows select drawings our team submitted as part of our final report.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/isometric_drawings.jpg&quot; alt=&quot;Isometric drawings of select parts.&quot; title=&quot;Isometric drawings of select parts&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/isometric_drawings.jpg&quot; alt=&quot;Isometric drawings of select parts.&quot; title=&quot;Isometric drawings of select parts&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;All of the parts shown above were drawn by me! :D&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;All of the parts shown above were drawn by me! :D&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;After each part had been individually drawn and labeled, the parts then needed to be redrawn on a single page to scale in an exploded view diagram showing each part&amp;#39;s location within the bell. A part of that drawing is shown at the header of this article.&lt;/p&gt;
+&lt;p&gt;After each part had been individually drawn and labeled, the parts then needed to be redrawn on a single page to scale in an exploded view diagram showing each part’s location within the bell. A part of that drawing is shown at the header of this article.&lt;/p&gt;
 
-&lt;p&gt;Once these drawings had been finished, our team now needed to recreate each part using SolidWorks 3D modeling software according to the measurements that had been done earlier. After the part&amp;#39;s geometry and dimensions had been finalized within the software, 3-view drawings were made using SolidWorks, as shown below.&lt;/p&gt;
+&lt;p&gt;Once these drawings had been finished, our team now needed to recreate each part using SolidWorks 3D modeling software according to the measurements that had been done earlier. After the part’s geometry and dimensions had been finalized within the software, 3-view drawings were made using SolidWorks, as shown below.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/solidworks_3view.jpg&quot; alt=&quot;3-view drawing made with SolidWorks&quot; title=&quot;3-view drawing made with SolidWorks&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/solidworks_3view.jpg&quot; alt=&quot;3-view drawing made with SolidWorks&quot; title=&quot;3-view drawing made with SolidWorks&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;A 3-view drawing showing the dimensions and features of the bell cover.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;A 3-view drawing showing the dimensions and features of the bell cover.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;With all the parts modeled in SolidWorks, it was only a matter of combining and linking all the files together to make a 3D rendering of the exploded view showing all the parts, similar to the one we had to sketch by hand.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/exploded_s.jpg&quot; alt=&quot;Exploded view drawing&quot; title=&quot;Exploded view drawing&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/exploded_s.jpg&quot; alt=&quot;Exploded view drawing&quot; title=&quot;Exploded view drawing&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;At the end of the semester, our project culminated with the 3D printing of our SolidWorks part models, through the use of the mechanical engineering department&amp;#39;s 3D printers. Overall, our parts matched up pretty well with the actual bell parts, with the exception of the threaded parts. Unfortunately, the small threads were below the resolution of the printer and thus made our bolts and threaded rod unable to join together like a regular screw.&lt;/p&gt;
+&lt;p&gt;At the end of the semester, our project culminated with the 3D printing of our SolidWorks part models, through the use of the mechanical engineering department’s 3D printers. Overall, our parts matched up pretty well with the actual bell parts, with the exception of the threaded parts. Unfortunately, the small threads were below the resolution of the printer and thus made our bolts and threaded rod unable to join together like a regular screw.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/bell_comp.jpg&quot; alt=&quot;Bell cover comparison&quot; title=&quot;Bell cover comparison&quot;&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;A comparison between the actual metal bell cover, and the plastic, 3D printed cover that I modeled using SolidWorks. All dimensions matched perfectly, with the exception of the threads as described above.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/quad.jpg&quot; alt=&quot;Select parts comparison&quot; title=&quot;Select parts comparison&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/bell_comp.jpg&quot; alt=&quot;Bell cover comparison&quot; title=&quot;Bell cover comparison&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Comparison of select 3D printed parts with their original counterparts&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;A comparison between the actual metal bell cover, and the plastic, 3D printed cover that I modeled using SolidWorks. All dimensions matched perfectly, with the exception of the threads as described above.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;My team and I were very satisfied with the outcome of the project, and I am very proud of all the work I put into it. This project allowed me to practice my drafting and 3D modeling skills on producing an actual product, and  helped me gain many abilities I did not previously have, such as working with SolidWorks, 3D printers, and even operating milling machines and lathes from the department&amp;#39;s machine shop!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/quad.jpg&quot; alt=&quot;Select parts comparison&quot; title=&quot;Select parts comparison&quot; /&gt;
+&amp;gt; &lt;em&gt;Comparison of select 3D printed parts with their original counterparts&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/3d_printed.jpg&quot; alt=&quot;3D printed parts&quot; title=&quot;3D printed parts&quot;&gt;&lt;/p&gt;
+&lt;p&gt;My team and I were very satisfied with the outcome of the project, and I am very proud of all the work I put into it. This project allowed me to practice my drafting and 3D modeling skills on producing an actual product, and  helped me gain many abilities I did not previously have, such as working with SolidWorks, 3D printers, and even operating milling machines and lathes from the department’s machine shop!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/3d_printed.jpg&quot; alt=&quot;3D printed parts&quot; title=&quot;3D printed parts&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -151,50 +193,50 @@
    <link href="http://bdehoyos.me/projects/lambo"/>
    <updated>2014-07-04T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/cardboard-lambo</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/car_small.JPG&quot; alt=&quot;The cardboard Lamborghini.&quot; title=&quot;The finished product.&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/car_small.JPG&quot; alt=&quot;The cardboard Lamborghini.&quot; title=&quot;The finished product.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;I worked on this project way back in October and November of 2010 during my junior year in high school, as part of an assignment for my sculpture class.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;I worked on this project way back in October and November of 2010 during my junior year in high school, as part of an assignment for my sculpture class.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;Going through some of my old pictures, I came across this project I had worked on in high school. This was an assignment for my sculpture class, where each student had to make an object of their choice made completely out of cardboard (and glue). Rather than making something simple and abstract (e.g. boxes glued together in asymmetrical patterns), I took the opportunity to create something that I hoped would impress my teacher and friends.&lt;/p&gt;
 
-&lt;p&gt;Because I&amp;#39;ve always loved cars, at first I thought I&amp;#39;d make a huge cardboard wheel, with detailed rims and a nice curved tire. However, I decided that perhaps that would be too simple and would not make for such an interesting project. On the other hand, if I were to make an full detailed car, I would be adding unnecessary complexity to the assignment and would most likely not finish on time. I struck a balance by choosing to make the Lamborghini Gallardo, which was much more interesting than just a wheel, but yet had smooth, flat outer surfaces that would form easily with cardboard boxes and make my life a little simpler.&lt;/p&gt;
+&lt;p&gt;Because I’ve always loved cars, at first I thought I’d make a huge cardboard wheel, with detailed rims and a nice curved tire. However, I decided that perhaps that would be too simple and would not make for such an interesting project. On the other hand, if I were to make an full detailed car, I would be adding unnecessary complexity to the assignment and would most likely not finish on time. I struck a balance by choosing to make the Lamborghini Gallardo, which was much more interesting than just a wheel, but yet had smooth, flat outer surfaces that would form easily with cardboard boxes and make my life a little simpler.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/car2_small.JPG&quot; alt=&quot;Pre-assembly.&quot; title=&quot;Pre-assembly&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/car2_small.JPG&quot; alt=&quot;Pre-assembly.&quot; title=&quot;Pre-assembly&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;This day was the only day I actually took pictures of the car before it was completed. Unfortunately, there are no pictures showing the previous steps in the build process, since most of the work was done during school, where phones and cameras were not allowed :(&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;This day was the only day I actually took pictures of the car before it was completed. Unfortunately, there are no pictures showing the previous steps in the build process, since most of the work was done during school, where phones and cameras were not allowed :(&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Although the project was only supposed to take two weeks, making the car turned out to be much more complex than I had originally thought and took me about a month and a half to complete. Seeing how I was making good progress, my teacher allowed me to continue working on it after the deadline, until the day I finally finished and proudly brought it back to school.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/wheels_small.JPG&quot; alt=&quot;Wheel comparison.&quot; title=&quot;The real rims vs my rims.&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/wheels_small.JPG&quot; alt=&quot;Wheel comparison.&quot; title=&quot;The real rims vs my rims.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;The real Lamborghini Gallardo&amp;#39;s rims (left), from which I based my cardboard version design from (right).&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;The real Lamborghini Gallardo’s rims (left), from which I based my cardboard version design from (right).&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Unfortunately, there aren&amp;#39;t many pictures documenting the whole production process of the car, due to the fact that electronic devices were not allowed at my school, where the majority of the work was done. There are, however, plenty of pictures showing the finished product. The entire car was made from salvaged cardboard boxes donated by the school&amp;#39;s recycling club, which form a shell assembled with lots and lots of hot glue. The car was modeled after pictures of the real car and some blueprint drawings I had found online at the time.&lt;/p&gt;
+&lt;p&gt;Unfortunately, there aren’t many pictures documenting the whole production process of the car, due to the fact that electronic devices were not allowed at my school, where the majority of the work was done. There are, however, plenty of pictures showing the finished product. The entire car was made from salvaged cardboard boxes donated by the school’s recycling club, which form a shell assembled with lots and lots of hot glue. The car was modeled after pictures of the real car and some blueprint drawings I had found online at the time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/IMG_3639_small_w.JPG&quot; alt=&quot;Side air vents.&quot; title=&quot;Side air vents.&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/IMG_3639_small_w.JPG&quot; alt=&quot;Side air vents.&quot; title=&quot;Side air vents.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Close up of the side air vents.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;Close up of the side air vents.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/car4_small.JPG&quot; alt=&quot;top right&quot; title=&quot;Top right view.&quot;&gt;
-&lt;img src=&quot;/assets/car3_small.JPG&quot; alt=&quot;complete back right&quot; title=&quot;The finished product.&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/car4_small.JPG&quot; alt=&quot;top right&quot; title=&quot;Top right view.&quot; /&gt;
+&lt;img src=&quot;/assets/car3_small.JPG&quot; alt=&quot;complete back right&quot; title=&quot;The finished product.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In the end, my teacher and I were very satisfied with the results of the car, despite the rather long time it took up.
 Several months before graduating I took the car back to school and gave it to my teacher for future class demonstrations. I hope that my car has inspired someone in that class enough to make a car themselves, and perhaps enhance on the couple errors I made.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/car_comp_small.JPG&quot; alt=&quot;Car comparison.&quot; title=&quot;Another comparison.&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/car_comp_small.JPG&quot; alt=&quot;Car comparison.&quot; title=&quot;Another comparison.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Comparison between the actual car and my finished product. (Left) Image &lt;a href=&quot;http://www.letmecolor.com/more/copyright&quot;&gt;courtesy&lt;/a&gt; of LetMeColor.com &lt;a href=&quot;http://www.letmecolor.com/&quot;&gt;coloring pages&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;Comparison between the actual car and my finished product. (Left) Image &lt;a href=&quot;http://www.letmecolor.com/more/copyright&quot;&gt;courtesy&lt;/a&gt; of LetMeColor.com &lt;a href=&quot;http://www.letmecolor.com/&quot;&gt;coloring pages&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
  </entry>
@@ -204,9 +246,9 @@ Several months before graduating I took the car back to school and gave it to my
    <link href="http://bdehoyos.me/2014/06/11/hello-world/"/>
    <updated>2014-06-11T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/2014/06/11/hello-world</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/hello.jpg&quot; alt=&quot;Hello World!&quot; title=&quot;Hello World!&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/hello.jpg&quot; alt=&quot;Hello World!&quot; title=&quot;Hello World!&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Today is my website&amp;#39;s birthday!&lt;/p&gt;
+&lt;p&gt;Today is my website’s birthday!&lt;/p&gt;
 </content>
  </entry>
  

@@ -3,12 +3,6 @@ layout: default
 title: Home
 ---
 
-<div class="sitemessage">
-  <img src="/assets/alert3.png" alt="NOTE:" height="50" width="50" align="left">
-  This site is currently being updated with new content. Please visit back frequently for the latest updates. :)
-  <br><little>Updated: 08/05/2014
-</div>
-
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -56,5 +50,9 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
+</div>
+
+<div class="updated">
+  Updated: 08/05/2014
 </div>
 

@@ -61,10 +61,9 @@ html {
 body {
   color: #515151;
   background-color: #fff;
-
   background: -moz-linear-gradient(top,  #FFFFFF 0%, #EFEFEF 100%);
   background: -webkit-gradient(linear, left top, left bottom, 
-      color-stop(0%,#FFFFFF), color-stop(100%,#EFEFEF));
+    color-stop(0%,#FFFFFF), color-stop(100%,#EFEFEF));
   background: -webkit-linear-gradient(top,  #FFFFFF 0%,#EFEFEF 100%);
   background: -o-linear-gradient(top,  #FFFFFF 0%,#EFEFEF 100%);
   background: -ms-linear-gradient(top,  #FFFFFF 0%,#EFEFEF 100%);
@@ -253,6 +252,18 @@ img {
   border-radius: 10px;
 }
 
+.left {
+    max-width: 48%;
+    float: left;
+    margin: 0rem 0rem 1rem 0rem;
+}
+
+.right {
+    max-width: 48%;
+    float: right;
+    margin: 0rem 0rem 1rem 0rem;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
@@ -303,6 +314,16 @@ tbody tr:nth-child(odd) th {
   color: #717171;
   background-color: #F2F5A9;
   border-radius: 10px;
+}
+
+.updated {
+  margin-bottom: 2rem;
+  padding: 0.5rem;
+  color: #44A2CA;
+  border-radius: 10px;
+
+  font-size: 70%;
+  text-align:center
 }
 
 comingsoon {
