@@ -4,7 +4,7 @@
  <title>Bruno De Hoyos</title>
  <link href="http://bdehoyos.me/atom.xml" rel="self"/>
  <link href="http://bdehoyos.me/"/>
- <updated>2014-09-26T23:22:43-05:00</updated>
+ <updated>2014-09-28T21:07:44-05:00</updated>
  <id>http://bdehoyos.me</id>
  <author>
    <name>Bruno De Hoyos</name>
@@ -17,7 +17,7 @@
    <link href="http://bdehoyos.me/projects/sb_robot"/>
    <updated>2014-09-26T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/robot3</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/r_sq.jpg&quot; alt=&quot;The self-balancing robot!&quot; title=&quot;The self-balancing robot!&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/r_wide_s.jpg&quot; alt=&quot;The self-balancing robot!&quot; title=&quot;The self-balancing robot!&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;Feedback loops. Arduino micro. Gyroscope. Accelerometer. Fun.&lt;/em&gt;&lt;/p&gt;
