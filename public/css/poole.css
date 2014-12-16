@@ -326,20 +326,6 @@ tbody tr:nth-child(odd) th {
   text-align:center
 }
 
-comingsoon {
-  color: #fff;
-  padding:  5px;
-  padding-left: 10px;
-  padding-right: 10px;
-  font-size: 0.7rem;
-  background-color: #505050;
-  margin-left: 10px;
-  border-radius: 3px;
-  position: relative;
-    top: -3px;
-  z-index: -1;
-}
-
 /* Nice colors
  * default blue: 44A2CA
  * orange: E98E38

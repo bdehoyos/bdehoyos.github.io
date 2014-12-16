@@ -52,6 +52,19 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.025rem;
 }
 
+comingsoon {
+  color: #fff;
+  padding:  5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 0.7rem;
+  background-color: #505050;
+  margin-left: 10px;
+  border-radius: 3px;
+  position: relative;
+    top: -3px;
+  z-index: 4;
+}
 
 /*
  * Wrapper
@@ -65,12 +78,13 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   width: 100%;
   padding-top:    5rem;
+  z-index: 4;
 }
 .wrapmast {
   position: fixed;
   top: 0px;
   width: 100%;
-  z-index: 1;
+  z-index: 6;
 }
 
 
@@ -134,7 +148,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-
 /*
  * Sidebar
  *
@@ -163,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
-  z-index: 3;
+  z-index: 10;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -229,7 +242,7 @@ a.sidebar-nav-item:focus {
   background-color: transparent;
   border-radius: 4px;
   cursor: pointer;
-  z-index: 2;
+  z-index: 8;
 }
 .sidebar-toggle:before {
   display: block;
