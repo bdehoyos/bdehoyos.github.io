@@ -4,7 +4,7 @@
  <title>Bruno De Hoyos</title>
  <link href="http://bdehoyos.me/atom.xml" rel="self"/>
  <link href="http://bdehoyos.me/"/>
- <updated>2014-09-28T21:07:44-05:00</updated>
+ <updated>2014-12-15T20:38:46-06:00</updated>
  <id>http://bdehoyos.me</id>
  <author>
    <name>Bruno De Hoyos</name>
@@ -32,10 +32,10 @@
    <link href="http://bdehoyos.me/projects/robot_2"/>
    <updated>2014-07-17T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/robot2</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/robot2_s_cs.jpg&quot; alt=&quot;Robot, second generation.&quot; title=&quot;Robot, second generation.&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/robot2_s.jpg&quot; alt=&quot;Robot, second generation.&quot; title=&quot;Robot, second generation.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;Robot 2 = robot 1 + Arduino Uno + H-bridge + ultrasonic sensors - infrared sensors - servo - PICAXE. Whew. Summer 2014.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;Robot 2. Arduino Micro + H-bridge + ultrasonic sensors.&lt;br /&gt;Summer 2014.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--comingsoon--&gt;
@@ -47,10 +47,10 @@
    <link href="http://bdehoyos.me/projects/robot_1"/>
    <updated>2014-07-17T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/robot</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/robot_s_cs.jpg&quot; alt=&quot;Robot, first generation.&quot; title=&quot;Robot, first generation.&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/robot_s.jpg&quot; alt=&quot;Robot, first generation.&quot; title=&quot;Robot, first generation.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;A robot I built and programmed from a robot starter kit. Winter 2013.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;A robot I built and programmed from a robot starter kit.&lt;br /&gt;Winter 2013.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--comingsoon--&gt;
@@ -107,10 +107,10 @@
    <link href="http://bdehoyos.me/projects/circuit"/>
    <updated>2014-07-17T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/counter</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/circuit_s_cs.jpg&quot; alt=&quot;Counting circuit.&quot; title=&quot;Counting circuit.&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/circuit_s.jpg&quot; alt=&quot;Counting circuit.&quot; title=&quot;Counting circuit.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;A simple decade counting circuit done in my mechatronics class. Really cool. Summer 2014.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;A simple decade counting circuit done in mechatronics class.&lt;br /&gt;Summer 2014.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--comingsoon--&gt;
@@ -122,7 +122,7 @@
    <link href="http://bdehoyos.me/projects/calculator"/>
    <updated>2014-07-17T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/calculator</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/calc_s_cs.jpg&quot; alt=&quot;My calculator app.&quot; title=&quot;My calculator app.&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/calc_s.jpg&quot; alt=&quot;My calculator app.&quot; title=&quot;My calculator app.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;My first working iOS app. Still under development. Summer 2014.&lt;/em&gt;&lt;/p&gt;
@@ -137,7 +137,7 @@
    <link href="http://bdehoyos.me/projects/arduino"/>
    <updated>2014-07-17T00:00:00-05:00</updated>
    <id>http://bdehoyos.me/projects/arduino</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/ardu_s_cs.jpg&quot; alt=&quot;Simple Arduino circuit.&quot; title=&quot;Simple Arduino circuit.&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/ardu_s.jpg&quot; alt=&quot;Simple Arduino circuit.&quot; title=&quot;Simple Arduino circuit.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;My first encounter with the infamous Arduino. Summer 2014.&lt;/em&gt;&lt;/p&gt;

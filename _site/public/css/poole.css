@@ -61,13 +61,13 @@ html {
 body {
   color: #515151;
   background-color: #fff;
-  background: -moz-linear-gradient(top,  #FFFFFF 0%, #EFEFEF 100%);
+/*  background: -moz-linear-gradient(top,  #FFFFFF 0%, #EFEFEF 100%);
   background: -webkit-gradient(linear, left top, left bottom, 
     color-stop(0%,#FFFFFF), color-stop(100%,#EFEFEF));
   background: -webkit-linear-gradient(top,  #FFFFFF 0%,#EFEFEF 100%);
   background: -o-linear-gradient(top,  #FFFFFF 0%,#EFEFEF 100%);
   background: -ms-linear-gradient(top,  #FFFFFF 0%,#EFEFEF 100%);
-  background: linear-gradient(to bottom,  #FFFFFF 0%,#EFEFEF 100%);
+  background: linear-gradient(to bottom,  #FFFFFF 0%,#EFEFEF 100%);*/
 
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -337,6 +337,7 @@ comingsoon {
   border-radius: 3px;
   position: relative;
     top: -3px;
+  z-index: -1;
 }
 
 /* Nice colors
@@ -455,7 +456,7 @@ comingsoon {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }

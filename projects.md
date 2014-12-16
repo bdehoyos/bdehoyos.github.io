@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Under construction :\
+More details coming soon.
 Stay tuned!
 
 ---
@@ -48,7 +48,7 @@ A project for the 'Introduction to Engineering Design and Graphics' course for m
 
 ---
 
-# [Cardboard Lamborghini Gallardo]({{ site.url }}/projects/lambo/)
+# [Cardboard Lamborghini Gallardo](/projects/lambo/)
 
 ![Cardboard Lamborghini.](/assets/car_small.JPG "Cardboard Lamborghini")
 

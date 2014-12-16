@@ -4,13 +4,13 @@
   {% include head.html %}
   {% include google_analytics.html %}
 
-  <body class="theme-base-cust1">
+  <body class="theme-base-cust1 sidebar-overlay">
 
     {% include sidebar.html %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
+    <div class="wrapmast">
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
@@ -19,13 +19,14 @@
           </h3>
         </div>
       </div>
+      <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    </div>
 
+    <div class="wrap">
       <div class="container content">
         {{ content }}
       </div>
     </div>
-
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
       (function(document) {

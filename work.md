@@ -3,6 +3,13 @@ layout: page
 title: Work Experience
 ---
 
+---
+
+### Undergraduate Research Assistant, [Texas Petawatt Laser](http://texaspetawatt.ph.utexas.edu/)
+September 2014 - Present
+
+---
+
 ### Student Technician, [Applied Research Laboratories](http://www.arlut.utexas.edu/)
 May 2013 - December 2013
 

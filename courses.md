@@ -3,6 +3,14 @@ layout: page
 title: Related Courses
 ---
 
+### Fall 2014
+
+- ME 339 - Heat Transfer
+- ME 139L - Heat Transfer Lab
+- ME 335 - Engineering Statistics
+- ME 333T - Engineering Communications
+- CS 361 - Introduction to Computer Security
+
 ### Summer 2014
 
 - ME 338 - Machine Elements

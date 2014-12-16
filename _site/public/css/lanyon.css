@@ -41,12 +41,13 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+  font-weight: 300;
   color: #313131;
   letter-spacing: -.025rem;
 }
@@ -63,6 +64,13 @@ h1, h2, h3, h4, h5, h6 {
 .wrap {
   position: relative;
   width: 100%;
+  padding-top:    5rem;
+}
+.wrapmast {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 1;
 }
 
 
@@ -94,10 +102,12 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  padding-top:    .5rem;
+  padding-bottom: .5rem;
+  margin-bottom: 0rem;
   border-bottom: 1px solid #eee;
+  background-color: #333;
+  opacity: 0.95;
 }
 .masthead-title {
   margin-top: 0;
@@ -105,11 +115,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #505050;
 }
 .masthead-title a {
+  font-size: 90%;
   color: #505050;
 }
 .masthead-title small {
-  font-size: 75%;
-  font-weight: 400;
+  font-size: 70%;
+  font-weight: 300;
   color: #c0c0c0;
   letter-spacing: 0;
 }
@@ -148,10 +159,11 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
+  z-index: 3;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -208,15 +220,16 @@ a.sidebar-nav-item:focus {
 /* Style the `label` that we use to target the `.sidebar-checkbox` */
 .sidebar-toggle {
   position: absolute;
-  top:  1rem;
+  top:  .5rem;
   left: 1rem;
   display: block;
   width: 2.2rem;
-  padding: .5rem .65rem;
-  color: #505050;
-  background-color: #fff;
+  padding: .4rem .65rem;
+  color: #fff;
+  background-color: transparent;
   border-radius: 4px;
   cursor: pointer;
+  z-index: 2;
 }
 .sidebar-toggle:before {
   display: block;
@@ -235,7 +248,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #505050;
+  background-color: #333;
 }
 
 @media (min-width: 30.1em) {
@@ -282,8 +295,7 @@ a.sidebar-nav-item:focus {
   visibility: visible;
 }
 #sidebar-checkbox:checked ~ .sidebar,
-#sidebar-checkbox:checked ~ .wrap,
-#sidebar-checkbox:checked ~ .sidebar-toggle {
+#sidebar-checkbox:checked ~ .wrap {
   -webkit-transform: translateX(14rem);
       -ms-transform: translateX(14rem);
           transform: translateX(14rem);
@@ -358,7 +370,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
@@ -530,15 +542,22 @@ a.pagination-item:hover {
 /* Custom1 */
 .theme-base-cust1 .sidebar,
 .theme-base-cust1 .sidebar-toggle:active,
-.theme-base-cust1 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #44A2CA;
+.theme-base-cust1  ~ .sidebar-toggle {
+  background-color: #7c7c7c;
+  /*background-color: #6e6e6e;*/
 }
 /* 007CE2 006EC8*/
 .theme-base-cust1 .container a,
-.theme-base-cust1 .sidebar-toggle,
 .theme-base-cust1 .related-posts li a:hover {
+  /*color: #ff4400;*/
   color: #44A2CA;
 }
+
+.theme-base-cust1 .masthead-title a {
+  font-weight: 300;
+  color: #fff;
+}
+
 
 /*
  * Overlay sidebar
@@ -552,11 +571,12 @@ a.pagination-item:hover {
       -ms-transform: translateX(0);
           transform: translateX(0);
 }
-.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar-toggle {
-  box-shadow: 0 0 0 .25rem #fff;
-}
+/*this is the outline around the active overlay toggle*/
+/*.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar-toggle {
+  box-shadow: 0 0 0 .1rem #44ff00;
+}*/
 .sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
-  box-shadow: .25rem 0 .5rem rgba(0,0,0,.1);
+  box-shadow: .25rem 0 2rem rgba(0,0,0,.2);
 }
 
 /* Only one tweak for a reverse layout */

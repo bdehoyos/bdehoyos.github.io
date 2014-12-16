@@ -3,22 +3,25 @@ layout: page
 title: About Me
 ---
 
-My name is Bruno De Hoyos and I am a third year student at The University of Texas at Austin. I am currently pursuing a Bachelor of Science in mechanical engineering and computer science, and hope to graduate in the 2016 spring semester. I enjoy taking things apart and learning how they work, as well as working on small programming projects to entertain myself during the weekends.
+My name is Bruno De Hoyos and I am a third year student at The University of Texas at Austin. I am currently pursuing a Bachelor of Science in <b>mechanical engineering</b>, and hope to graduate in the 2016 spring semester. I enjoy taking things apart and learning how they work, as well as working on small programming projects to entertain myself during the weekends.
 
-If you find anything on this site interesting and have any questions, feel free to contact me via LinkedIn or through my email address: bdehoyos [at] utexas [dot] edu
+If you find anything on this site interesting or have any questions, feel free to drop me a message at the comment section below each project page.
 
 ### Languages
 - English, fluent
 - Spanish, fluent
 - French, basic conversational
-- C/C++, proficient
-- Java, proficient
-- MATLAB, proficient
+
+### Programming
+- C/C++
+- Java
+- MATLAB
+- HTML
 
 ### Skills
 - SolidWorks
 - Arduino
-- Milling machines, lathes (machine shop certified)
+- Milling machines, lathes
 - Assembly language
 - Microsoft Office
 - Adobe Photoshop
@@ -26,6 +29,7 @@ If you find anything on this site interesting and have any questions, feel free 
 
 ### Activities & Societies
 
+- Tau Beta Pi Engineering Honor Society (TBP)
 - American Society of Mechanical Engineers (ASME)
 - Society of Hispanic Professional Engineers (SHPE)
 - UT IEEE Robotics and Automation Society (RAS)

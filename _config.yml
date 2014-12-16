@@ -10,8 +10,8 @@ permalink:        pretty
 
 # Setup
 title:            Bruno De Hoyos
-tagline:          'Computer Science | Mechanical Engineering'
-description:      'Welcome to my website! I am currently a student at <a href="http://www.utexas.edu" target="_blank">The University of Texas at Austin</a> and you can find my most recent projects here. Feel free to follow me on <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>! :]'
+tagline:          '| bdehoyos.me'
+description:      'Welcome to my website! This is a collection of some of my favorite personal projects. Please leave me a comment if you find anything interesting!<br>-Bruno'
 url:              http://bdehoyos.me
 baseurl:          '/'
 paginate:         10
@@ -23,7 +23,7 @@ author:
   url:            http://bdehoyos.me
 
 # Custom vars
-version:          1.0.0
+version:          1.1.0
 
 github:
   repo:           https://github.com/bdehoyos
