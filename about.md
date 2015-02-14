@@ -17,6 +17,7 @@ If you find anything on this site interesting or have any questions, feel free t
 - Java
 - MATLAB
 - HTML
+- R
 
 ### Skills
 - SolidWorks

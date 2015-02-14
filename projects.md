@@ -8,32 +8,42 @@ Stay tuned!
 
 ---
 
-# [Robot, Part 2](/projects/robot_2/)
+# [Self-Balancing Robot](/projects/sb_robot/)
 
-![Robot, second generation.](/assets/robot2_s_cs.jpg "Robot, second generation.")
+![Arduino micro used for the self-balancing robot.](/assets/sb_s.jpg "Arduino micro used for the self-balancing robot.")
 
 <div class="message">
-Robot 2 = robot 1 + Arduino Uno + H-bridge + ultrasonic sensors - infrared sensors - servo - PICAXE. Whew. Summer 2014. [more coming soon]
+A self-balancing robot built over the summer of 2014.
+</div>
+
+---
+
+# [Robot, Part 2](/projects/robot_2/)
+
+![Robot, second generation.](/assets/r2_s2.jpg "Robot, second generation.")
+
+<div class="message">
+Simple robot with ultrasonic sensor and H-bridge controller. Summer 2014.
 </div>
 
 ---
 
 # [Calculator App](/projects/calculator/)
 
-![My calculator app.](/assets/calc_s_cs.jpg "My calculator app.")
+![My calculator app.](/assets/calc_s.jpg "My calculator app.")
 
 <div class="message">
-My first working iOS app. Still under development. Summer 2014. [more coming soon]
+iOS app project. Summer 2014.
 </div>
 
 ---
 
 # [Robot, Part 1](/projects/robot_1/)
 
-![Robot, first generation.](/assets/robot_s_cs.jpg "Robot, first generation.")
+![Robot, first generation.](/assets/robot_s.jpg "Robot, first generation.")
 
 <div class="message">
-A robot I built and programmed from a robot starter kit. Winter 2013. [more coming soon]
+A robot I built and programmed from a robot starter kit. Winter 2013.
 </div>
 
 ---

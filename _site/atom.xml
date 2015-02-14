@@ -4,7 +4,7 @@
  <title>Bruno De Hoyos</title>
  <link href="http://bdehoyos.me/atom.xml" rel="self"/>
  <link href="http://bdehoyos.me/"/>
- <updated>2015-01-22T21:08:52-06:00</updated>
+ <updated>2015-02-14T16:34:06-06:00</updated>
  <id>http://bdehoyos.me</id>
  <author>
    <name>Bruno De Hoyos</name>
@@ -23,7 +23,50 @@
   &lt;p&gt;&lt;em&gt;Feedback loops. Arduino micro. Gyroscope. Accelerometer. Fun.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;!--comingsoon--&gt;
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Description for this project coming soon. In the meantime, feel free to browse over the pictures and comment below if you have a question about something. :)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/sb2/1hb.jpg&quot; alt=&quot;H-bridge&quot; title=&quot;H-bridge&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/2ar.jpg&quot; alt=&quot;Arduino&quot; title=&quot;Arduino&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/3cb.jpg&quot; alt=&quot;Marking the cardboard&quot; title=&quot;Marking the cardboard&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/4cb.jpg&quot; alt=&quot;Cutting the cardboard&quot; title=&quot;Cutting the cardboard&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/5cb.jpg&quot; alt=&quot;Cutting the cardboard&quot; title=&quot;Cutting the cardboard&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/6cb.jpg&quot; alt=&quot;Stacking the cardboard pieces&quot; title=&quot;Stacking the cardboard piecies&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/7pl.jpg&quot; alt=&quot;Plexiglass cover&quot; title=&quot;Plexiglass cover&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/8cb.jpg&quot; alt=&quot;Cardboard Pieces&quot; title=&quot;Cardboard pieces&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/9as.jpg&quot; alt=&quot;Cardboard pieces glued on plexiglass&quot; title=&quot;Cardboard pieces glued on plexiglass&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/10si.jpg&quot; alt=&quot;Side-view showing motors in between cardboard pieces&quot; title=&quot;Side-view showing motors in between cardboard pieces&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/11cu.jpg&quot; alt=&quot;Hole cut-out for passing cables&quot; title=&quot;Hole cut-out for passing cables&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/12as.jpg&quot; alt=&quot;Close-up of cardboard assembly&quot; title=&quot;Close-up of cardboard assembly&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/13mo.jpg&quot; alt=&quot;Close-up of motors&quot; title=&quot;Close-up of motors&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/14tq.jpg&quot; alt=&quot;Robot frame&quot; title=&quot;Robot frame&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/15ci.jpg&quot; alt=&quot;Installing the H-bridge&quot; title=&quot;Installing the H-bridge&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/16se.jpg&quot; alt=&quot;Testing the accelerometer and gyroscope&quot; title=&quot;Testing the accelerometer and gyroscope&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/17co.jpg&quot; alt=&quot;Testing the sensors before installing&quot; title=&quot;Testing the sensors before installing&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/18as.jpg&quot; alt=&quot;Sensors and H-bridge in their place&quot; title=&quot;Sensors and H-bridge in their place&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/19ar.jpg&quot; alt=&quot;Close-up of Arduino&quot; title=&quot;Close-up of Arduino&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/20se.jpg&quot; alt=&quot;Close-up of sensors&quot; title=&quot;Close-up of sensors&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/21as.jpg&quot; alt=&quot;Everything glued in its place&quot; title=&quot;Everything glued in its place&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/22hb.jpg&quot; alt=&quot;Close-up of installed H-bridge&quot; title=&quot;Close-up of installed H-bridge&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/23co.jpg&quot; alt=&quot;Batteries and covers placed on&quot; title=&quot;Batteries and cover placed on&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/24cu.jpg&quot; alt=&quot;Close-up of Arduino and battery pack&quot; title=&quot;Close-up of Arduino and battery pack&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/25hb.jpg&quot; alt=&quot;Close-up of covered H-bridge&quot; title=&quot;Close-up of covered H-bridge&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/26ar.jpg&quot; alt=&quot;Installed Arduino&quot; title=&quot;Installed Arduino&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/27su.jpg&quot; alt=&quot;Finalized assembly&quot; title=&quot;Finalized assembly&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/30ba.jpg&quot; alt=&quot;Close-up of covered Arduino and batter pack&quot; title=&quot;Close-up of covered arduino and battery pack&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/34fi.jpg&quot; alt=&quot;Final product&quot; title=&quot;Final product&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/29tv.jpg&quot; alt=&quot;Top-view of finalized robot&quot; title=&quot;Top-view of finalized robot&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/31ba.jpg&quot; alt=&quot;Back-view of finalized robot&quot; title=&quot;Back-view of finalized robot&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/33te.jpg&quot; alt=&quot;Testing the stability system&quot; title=&quot;Testing the stability system&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/32te.jpg&quot; alt=&quot;Testing the electronics&quot; title=&quot;Testing the electronics&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/28an.jpg&quot; alt=&quot;Side-view of finalized robot&quot; title=&quot;Side-view of finalized robot&quot; /&gt;
+&lt;img src=&quot;/assets/line.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -53,52 +96,52 @@
   &lt;p&gt;&lt;em&gt;A robot I built and programmed from a robot starter kit.&lt;br /&gt;Winter 2013.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;!--comingsoon--&gt;
 &lt;!--more--&gt;
 
 &lt;h2 id=&quot;parts-list&quot;&gt;Parts List&lt;/h2&gt;
 
 &lt;p&gt;Bundled with the robot kit were the following items:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/robot_pics/raw/picaxe.jpg&quot; alt=&quot;Flowers&quot; title=&quot;Picaxe.&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/header_pins.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/robot_pics/raw/jumper_blocks.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/heat_shrink.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/jumper_cables.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/picaxe_cable.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/chip1.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/chip2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/servo.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/infrared.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/battery_holders.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/wheels.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/motors.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/sticky_tape.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/parts_list.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/stripped_wire.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/infrared_conn.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/board_conn1.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/board_conn2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/splicing.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/connections1.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/connections2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/splicing2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/covering.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/pre_assembly.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/pre_side.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/battery_bottom.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/battery_bottom2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/battery_bottom3.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/top_view.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/angle_view.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/final1.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/final2.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/final3.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;right&quot; /&gt;
-&lt;img src=&quot;/assets/robot_pics/raw/final4.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/robot_pics/1pi.jpg&quot; alt=&quot;Picaxe&quot; title=&quot;Picaxe&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/2hp.jpg&quot; alt=&quot;Header pins&quot; title=&quot;Header pins&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/3jb.jpg&quot; alt=&quot;Jumper blocks&quot; title=&quot;Jumper blocks&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/4hs.jpg&quot; alt=&quot;Heat shrink tube&quot; title=&quot;Heat shrink tube&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/5jc.jpg&quot; alt=&quot;Jumper cables&quot; title=&quot;Jumper cables&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/6pc.jpg&quot; alt=&quot;Picaxe cable&quot; title=&quot;Picaxe cable&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/7ch.jpg&quot; alt=&quot;Chip 1&quot; title=&quot;Chip 1&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/8ch.jpg&quot; alt=&quot;Chip 2&quot; title=&quot;Chip 2&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/9sv.jpg&quot; alt=&quot;Servo motor&quot; title=&quot;Servo motor&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/10ir.jpg&quot; alt=&quot;Infrared sensor&quot; title=&quot;Infrared sensor&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/11bh.jpg&quot; alt=&quot;Battery holders&quot; title=&quot;Battery holders&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/12wh.jpg&quot; alt=&quot;Wheels&quot; title=&quot;Wheels&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/13mo.jpg&quot; alt=&quot;Motors&quot; title=&quot;Motors&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/14st.jpg&quot; alt=&quot;Sticky tape&quot; title=&quot;Sticky tape&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/15pl.jpg&quot; alt=&quot;Parts list&quot; title=&quot;Parts list&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/16sw.jpg&quot; alt=&quot;Stripped wire&quot; title=&quot;Stripped wire&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/17ic.jpg&quot; alt=&quot;Infrared sensor connection&quot; title=&quot;Infrared sensor connection&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/18bc.jpg&quot; alt=&quot;Board connection&quot; title=&quot;Board connection&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/19bc.jpg&quot; alt=&quot;Board connection&quot; title=&quot;Board connection&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/20sp.jpg&quot; alt=&quot;Cable splicing&quot; title=&quot;Cable splicing&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/21co.jpg&quot; alt=&quot;Cable connections&quot; title=&quot;Cable connections&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/22co.jpg&quot; alt=&quot;Cable connections&quot; title=&quot;Cable connections&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/23sp.jpg&quot; alt=&quot;Cable splicing&quot; title=&quot;Cable splicing&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/24co.jpg&quot; alt=&quot;External covering&quot; title=&quot;External covering&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/25pa.jpg&quot; alt=&quot;Pre-assembled robot&quot; title=&quot;Pre-assembled robot&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/26ps.jpg&quot; alt=&quot;Side-view of pre-assembled robot&quot; title=&quot;Side-view of pre-assembled robot&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/27bb.jpg&quot; alt=&quot;Battery-pack located on bottom of robot&quot; title=&quot;Battery-pack located on bottom of robot&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/28bb.jpg&quot; alt=&quot;Bottom-view of robot&quot; title=&quot;Bottom-view of robot&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/29bb.jpg&quot; alt=&quot;Battery-pack located on bootom of robot&quot; title=&quot;Battery-pack located on bottom of robot&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/30tv.jpg&quot; alt=&quot;Robot on its side&quot; title=&quot;Robot on its side&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/31av.jpg&quot; alt=&quot;Angle-view of robot&quot; title=&quot;Angle-view of robot&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/32fi.jpg&quot; alt=&quot;Finished robot&quot; title=&quot;Finished robot&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/33fi.jpg&quot; alt=&quot;Finished robot&quot; title=&quot;Finished robot&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/34fi.jpg&quot; alt=&quot;Finished robot&quot; title=&quot;Finished robot&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/robot_pics/35fi.jpg&quot; alt=&quot;Finished robot&quot; title=&quot;Finished robot&quot; /&gt;
+&lt;img src=&quot;/assets/line.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;building-the-robot&quot;&gt;Building the Robot&lt;/h1&gt;
 
+&lt;p&gt;Description for this project coming soon. In the meantime, feel free to browse over the pictures and comment below if you have a question about something. :)&lt;/p&gt;
 </content>
  </entry>
  
@@ -113,7 +156,16 @@
   &lt;p&gt;&lt;em&gt;A simple decade counting circuit done in mechatronics class.&lt;br /&gt;Summer 2014.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;!--comingsoon--&gt;
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Description for this project coming soon.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/count1.jpg&quot; alt=&quot;Counting circuit&quot; title=&quot;Counting circuit&quot; /&gt;
+&lt;img src=&quot;/assets/count2.jpg&quot; alt=&quot;Work table&quot; title=&quot;Work table&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -125,7 +177,7 @@
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/calc_s.jpg&quot; alt=&quot;My calculator app.&quot; title=&quot;My calculator app.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;My first working iOS app. Still under development. Summer 2014.&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;em&gt;My first working iOS app. Summer 2014.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;!--comingsoon--&gt;

@@ -3,6 +3,14 @@ layout: page
 title: Related Courses
 ---
 
+### Spring 2015
+
+- ME 344 - Dynamic Systems and Controls
+- ME 144L - Dynamic Systems and Controls Lab
+- ME 353 - Engineering Finance
+- CS 329E - Elements of Data Visualization
+- M 427L - Advanced Calculus for Applications II
+
 ### Fall 2014
 
 - ME 339 - Heat Transfer

@@ -5,8 +5,17 @@ title: Work Experience
 
 ---
 
+### Undergraduate Researcher, [ReNeu Robotics](http://www.me.utexas.edu/~reneu/)
+January 2015 - Present
+
+
+---
+
 ### Undergraduate Research Assistant, [Texas Petawatt Laser](http://texaspetawatt.ph.utexas.edu/)
-September 2014 - Present
+September 2014 - January 2015
+
+- Assembled laser configurations and aligned equipment on optical table
+- Worked in student machine shop to produce parts and track fabrication process
 
 ---
 
