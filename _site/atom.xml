@@ -4,13 +4,46 @@
  <title>Bruno De Hoyos</title>
  <link href="http://bdehoyos.me/atom.xml" rel="self"/>
  <link href="http://bdehoyos.me/"/>
- <updated>2015-03-20T01:01:52-05:00</updated>
+ <updated>2015-05-10T14:11:24-05:00</updated>
  <id>http://bdehoyos.me</id>
  <author>
    <name>Bruno De Hoyos</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>HackTX&#58; Hardware + Software Toolkit</title>
+   <link href="http://bdehoyos.me/projects/hacktx"/>
+   <updated>2014-10-19T00:00:00-05:00</updated>
+   <id>http://bdehoyos.me/projects/hacktx</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/hack/gatorade.jpg&quot; alt=&quot;Image identifying app.&quot; title=&quot;Image identifying app.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;A hardware and software toolkit to help visually impaired people perceive their surroundings.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/hack/checker.jpg&quot; alt=&quot;H-bridge&quot; title=&quot;H-bridge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ultrasonic sensor with audible feedback to provide warnings from collisions with objects in close proximity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/hack/kinect.png&quot; alt=&quot;H-bridge&quot; title=&quot;H-bridge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Microsoft Kinect data used to create a depth map of a room and fed into an iPhone application to provide haptic feedback based on a user’s finger position over the image.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/hack/oreo.jpg&quot; alt=&quot;H-bridge&quot; title=&quot;H-bridge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image recognition API used with an iPhone camera to provide description of objects through the iPhone’s screen and speakers.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Self-Balancing Robot - v1.0</title>
