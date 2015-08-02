@@ -4,13 +4,29 @@
  <title>Bruno De Hoyos</title>
  <link href="http://bdehoyos.me/atom.xml" rel="self"/>
  <link href="http://bdehoyos.me/"/>
- <updated>2015-05-10T14:11:24-05:00</updated>
+ <updated>2015-08-02T11:34:54-05:00</updated>
  <id>http://bdehoyos.me</id>
  <author>
    <name>Bruno De Hoyos</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Hand Visualization Project</title>
+   <link href="http://bdehoyos.me/projects/hand"/>
+   <updated>2015-05-08T00:00:00-05:00</updated>
+   <id>http://bdehoyos.me/projects/hand</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/hand2.png&quot; alt=&quot;Hand Visualization Project.&quot; title=&quot;Hand Visualization Project.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;A 3D rendering program for visualizing hand movements under a robotic exoskeleton.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>HackTX&#58; Hardware + Software Toolkit</title>

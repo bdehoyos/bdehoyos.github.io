@@ -5,8 +5,18 @@ title: Work Experience
 
 ---
 
+### GRDP Operations Intern, [Cameron](http://www.c-a-m.com/)
+
+June 2015 - Present
+
+> *Summer internship in the Global Rotational Development Program, within Cameron's Surface Aftermarket division.*
+
+---
+
 ### Undergraduate Researcher, [ReNeu Robotics](http://www.me.utexas.edu/~reneu/)
-January 2015 - Present
+January 2015 - May 2015
+
+<!-- - Developed a 3D computer graphics program for visualizing the movement of a human hand under a robotic exoskeleton. -->
 
 
 ---
