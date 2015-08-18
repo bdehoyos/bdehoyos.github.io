@@ -3,6 +3,13 @@ layout: page
 title: Related Courses
 ---
 
+### Fall 2015
+
+- ME 366J - Mechanical Engineering Design Methodology
+- ME 379M - Robot Mechanism Design
+- CS 329E - Elements of Web Programming
+- E 316M - American Literature
+
 ### Spring 2015
 
 - ME 344 - Dynamic Systems and Controls
@@ -23,7 +30,7 @@ title: Related Courses
 
 - ME 338 - Machine Elements
 - ME 340 - Mechatronics
-- ME 340L - Mechatronics Laboratory
+- ME 140L - Mechatronics Laboratory
 
 ### Spring 2014
 

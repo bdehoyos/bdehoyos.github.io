@@ -7,17 +7,20 @@ title: Work Experience
 
 ### GRDP Operations Intern, [Cameron](http://www.c-a-m.com/)
 
-June 2015 - Present
+(Global Rotational Development Program) <br>
+June 2015 - August 2015
 
-> *Summer internship in the Global Rotational Development Program, within Cameron's Surface Aftermarket division.*
+- Studied and applied Lean Six Sigma methodologies to identify improvement areas in pressure testing process
+- Created and deployed standardized pressure testing materials to over 30 North American aftermarket facilities
+- Edited, narrated, and deployed a web-based pressure testing training course for over 750 employees across North America
 
 ---
 
-### Undergraduate Researcher, [ReNeu Robotics](http://www.me.utexas.edu/~reneu/)
+### Undergraduate Research Assistant, [ReNeu Robotics](http://www.me.utexas.edu/~reneu/)
 January 2015 - May 2015
 
-<!-- - Developed a 3D computer graphics program for visualizing the movement of a human hand under a robotic exoskeleton. -->
-
+- Developed a 3D graphics program to visualize motion of a human hand under a robotic exoskeleton
+- Studied computer graphics, rendering, and modeling
 
 ---
 
