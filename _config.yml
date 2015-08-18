@@ -13,7 +13,7 @@ title:            Bruno De Hoyos
 tagline:          '| bdehoyos.me'
 description:      'Welcome to my website! This is a collection of some of my favorite personal projects. Please leave me a comment if you find anything interesting!<br>-Bruno'
 url:              http://bdehoyos.me
-baseurl:          '/'
+
 paginate:         10
 
 excerpt_separator: <!--more-->
