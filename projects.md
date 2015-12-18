@@ -8,6 +8,36 @@ Stay tuned!
 
 ---
 
+# [3D Shape Display](/projects/display/)
+
+![A cam-driven tile display.](/assets/display2.jpg "A cam-driven tile display.")
+
+<div class="message">
+A low-resolution, robotic 3D shape display.
+</div>
+
+---
+
+# [Hand Visualization Project](/projects/hand/)
+
+![Realitime wireframe hand visualization.](/assets/hand2.png "Realitime wireframe hand visualization.")
+
+<div class="message">
+A realtime, 3D rendering program for visualizing hand motion.
+</div>
+
+---
+
+# [HackTX: Hardware + Software Toolkit](/projects/hacktx/)
+
+![Utlrasonic sensor used to measure collisions at close proximities.](/assets/hack/checker.jpg "Utlrasonic sensor used to measure collisions at close proximities.")
+
+<div class="message">
+A toolkit for helping visually impaired people perceive their surroundings.
+</div>
+
+---
+
 # [Self-Balancing Robot](/projects/sb_robot/)
 
 ![Arduino micro used for the self-balancing robot.](/assets/sb_s.jpg "Arduino micro used for the self-balancing robot.")

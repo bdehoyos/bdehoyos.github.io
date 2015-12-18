@@ -4,13 +4,63 @@
  <title>Bruno De Hoyos</title>
  <link href="http://bdehoyos.me/atom.xml" rel="self"/>
  <link href="http://bdehoyos.me/"/>
- <updated>2015-08-18T17:00:28-05:00</updated>
+ <updated>2015-12-17T19:40:36-06:00</updated>
  <id>http://bdehoyos.me</id>
  <author>
    <name>Bruno De Hoyos</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>3D Shape Display</title>
+   <link href="http://bdehoyos.me/projects/display"/>
+   <updated>2015-12-04T00:00:00-06:00</updated>
+   <id>http://bdehoyos.me/projects/display</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/display_s.png&quot; alt=&quot;3D Shape Display.&quot; title=&quot;3D Shape Display.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;A cam-driven robotic mechanism for displaying 3D content through a matrix of tiles.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This robotic 3D shape display was built as part of the &lt;em&gt;ME 379M Robot Mechanism Design&lt;/em&gt; course at the University of Texas at Austin. Our goal was to create a robotic mechanism that could display various images and shapes with a single degree of freedom (i.e. with a single actuator). This 3D display was inspired by &lt;a href=&quot;http://tangible.media.mit.edu/project/inform/&quot;&gt;inFORM&lt;/a&gt;, a dynamic shape display with a much higher resolution and functionality developed at MIT. Unlike inFORM, all of the motions of this 3D display are driven by internal cams, and are thus ‘hardcoded’ into the design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/internal_s.jpg&quot; alt=&quot;Internal cams.&quot; title=&quot;Internal cams.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Internal cam structure of the mechanism. Each cam drives the motion of one tile on the surface.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In its current form, the mechanism is capable of displaying 4 different images, shown below. Due to its small resolution (5x5 pixel display), we were limited by the types of images we could show. Below are also some alternative images we considered but that were ultimately not chosen for the final design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tile-designs.png&quot; alt=&quot;Tile Designs.&quot; title=&quot;Tile Designs.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Almost every component in our mechanism was laser cut from 1/4” birch wood or 1/8” acrylic plastic sheets. The only components not cut out with the laser cutter were the camshafts, which were 3/8” Delrin rods machined with a mill to have a keyway.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cut_comps2.jpg&quot; alt=&quot;Tile Designs.&quot; title=&quot;Tile Designs.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All the cams were designed to follow a modified sine wave motion during the rising and falling from one image position to the next. Using this type of cam design allowed our displacement, velocity, and acceleration functions to be continuous across all angles of rotation, which allows for smoother motion. The sizes of the cams were designed to keep all pitch angles below 30 degrees to avoid creating high lateral forces on the output roller shaft. We also utilized an online graphing calculator to visualize our cam designs, which you can interact with &lt;a href=&quot;https://www.desmos.com/calculator/lsqv4ouwov&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.desmos.com/calculator/lsqv4ouwov&quot;&gt;&lt;img src=&quot;/assets/calc.png&quot; alt=&quot;Graphing calculator.&quot; title=&quot;Graphing calculator.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Graphing calculator used to visualize and design the cam profiles of our mechanism.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Below is a video of our robot in action. Let me know in the comments if you would like to see more pictures or if you have any questions! :)&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lEPf8Sn7KHE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;Team members:&lt;/b&gt; Bruno De Hoyos, Matthew Brady, Paria Esmatloo&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Instructor:&lt;/b&gt; Dr. Ashish Deshpande&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Hand Visualization Project</title>
@@ -22,9 +72,6 @@
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;A 3D rendering program for visualizing hand movements under a robotic exoskeleton.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;!--more--&gt;
-
 </content>
  </entry>
  
@@ -129,8 +176,6 @@
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;Robot 2. Arduino Micro + H-bridge + ultrasonic sensors.&lt;br /&gt;Summer 2014.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;!--comingsoon--&gt;
 </content>
  </entry>
  
@@ -228,8 +273,6 @@
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;My first working iOS app. Summer 2014.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;!--comingsoon--&gt;
 </content>
  </entry>
  
@@ -243,8 +286,6 @@
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;My first encounter with the infamous Arduino. Summer 2014.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;!--comingsoon--&gt;
 </content>
  </entry>
  

@@ -11,7 +11,7 @@
 
   <title>
     
-      Self-Balancing Robot - v1.0 &middot; Bruno De Hoyos
+      3D Shape Display &middot; Bruno De Hoyos
     
   </title>
 
@@ -130,73 +130,56 @@
     <div class="wrap">
       <div class="container content">
         <div class="post">
-  <h1 class="post-title">Self-Balancing Robot - v1.0</h1>
-  <span class="post-date">26 Sep 2014</span>
-  <p><img src="/assets/r_wide_s.jpg" alt="The self-balancing robot!" title="The self-balancing robot!" /></p>
+  <h1 class="post-title">3D Shape Display</h1>
+  <span class="post-date">04 Dec 2015</span>
+  <p><img src="/assets/display_s.png" alt="3D Shape Display." title="3D Shape Display." /></p>
 
 <blockquote>
-  <p><em>Feedback loops. Arduino micro. Gyroscope. Accelerometer. Fun.</em></p>
+  <p><em>A cam-driven robotic mechanism for displaying 3D content through a matrix of tiles.</em></p>
 </blockquote>
 
 <!--more-->
 
-<hr />
+<p>This robotic 3D shape display was built as part of the <em>ME 379M Robot Mechanism Design</em> course at the University of Texas at Austin. Our goal was to create a robotic mechanism that could display various images and shapes with a single degree of freedom (i.e. with a single actuator). This 3D display was inspired by <a href="http://tangible.media.mit.edu/project/inform/">inFORM</a>, a dynamic shape display with a much higher resolution and functionality developed at MIT. Unlike inFORM, all of the motions of this 3D display are driven by internal cams, and are thus ‘hardcoded’ into the design.</p>
 
-<p>Description for this project coming soon. In the meantime, feel free to browse over the pictures and comment below if you have a question about something. :)</p>
+<p><img src="/assets/internal_s.jpg" alt="Internal cams." title="Internal cams." /></p>
 
-<hr />
+<blockquote>
+  <p><em>Internal cam structure of the mechanism. Each cam drives the motion of one tile on the surface.</em></p>
+</blockquote>
 
-<p><img src="/assets/sb2/1hb.jpg" alt="H-bridge" title="H-bridge" class="left" />
-<img src="/assets/sb2/2ar.jpg" alt="Arduino" title="Arduino" class="right" />
-<img src="/assets/sb2/3cb.jpg" alt="Marking the cardboard" title="Marking the cardboard" class="left" />
-<img src="/assets/sb2/4cb.jpg" alt="Cutting the cardboard" title="Cutting the cardboard" class="right" />
-<img src="/assets/sb2/5cb.jpg" alt="Cutting the cardboard" title="Cutting the cardboard" class="left" />
-<img src="/assets/sb2/6cb.jpg" alt="Stacking the cardboard pieces" title="Stacking the cardboard piecies" class="right" />
-<img src="/assets/sb2/7pl.jpg" alt="Plexiglass cover" title="Plexiglass cover" class="left" />
-<img src="/assets/sb2/8cb.jpg" alt="Cardboard Pieces" title="Cardboard pieces" class="right" />
-<img src="/assets/sb2/9as.jpg" alt="Cardboard pieces glued on plexiglass" title="Cardboard pieces glued on plexiglass" class="right" />
-<img src="/assets/sb2/10si.jpg" alt="Side-view showing motors in between cardboard pieces" title="Side-view showing motors in between cardboard pieces" class="left" />
-<img src="/assets/sb2/11cu.jpg" alt="Hole cut-out for passing cables" title="Hole cut-out for passing cables" class="right" />
-<img src="/assets/sb2/12as.jpg" alt="Close-up of cardboard assembly" title="Close-up of cardboard assembly" class="left" />
-<img src="/assets/sb2/13mo.jpg" alt="Close-up of motors" title="Close-up of motors" class="right" />
-<img src="/assets/sb2/14tq.jpg" alt="Robot frame" title="Robot frame" class="left" />
-<img src="/assets/sb2/15ci.jpg" alt="Installing the H-bridge" title="Installing the H-bridge" class="right" />
-<img src="/assets/sb2/16se.jpg" alt="Testing the accelerometer and gyroscope" title="Testing the accelerometer and gyroscope" class="left" />
-<img src="/assets/sb2/17co.jpg" alt="Testing the sensors before installing" title="Testing the sensors before installing" class="left" />
-<img src="/assets/sb2/18as.jpg" alt="Sensors and H-bridge in their place" title="Sensors and H-bridge in their place" class="right" />
-<img src="/assets/sb2/19ar.jpg" alt="Close-up of Arduino" title="Close-up of Arduino" class="left" />
-<img src="/assets/sb2/20se.jpg" alt="Close-up of sensors" title="Close-up of sensors" class="right" />
-<img src="/assets/sb2/21as.jpg" alt="Everything glued in its place" title="Everything glued in its place" class="left" />
-<img src="/assets/sb2/22hb.jpg" alt="Close-up of installed H-bridge" title="Close-up of installed H-bridge" class="right" />
-<img src="/assets/sb2/23co.jpg" alt="Batteries and covers placed on" title="Batteries and cover placed on" class="left" />
-<img src="/assets/sb2/24cu.jpg" alt="Close-up of Arduino and battery pack" title="Close-up of Arduino and battery pack" class="right" />
-<img src="/assets/sb2/25hb.jpg" alt="Close-up of covered H-bridge" title="Close-up of covered H-bridge" class="left" />
-<img src="/assets/sb2/26ar.jpg" alt="Installed Arduino" title="Installed Arduino" class="right" />
-<img src="/assets/sb2/27su.jpg" alt="Finalized assembly" title="Finalized assembly" class="left" />
-<img src="/assets/sb2/30ba.jpg" alt="Close-up of covered Arduino and batter pack" title="Close-up of covered arduino and battery pack" class="right" />
-<img src="/assets/sb2/34fi.jpg" alt="Final product" title="Final product" class="right" />
-<img src="/assets/sb2/29tv.jpg" alt="Top-view of finalized robot" title="Top-view of finalized robot" class="left" />
-<img src="/assets/sb2/31ba.jpg" alt="Back-view of finalized robot" title="Back-view of finalized robot" class="right" />
-<img src="/assets/sb2/33te.jpg" alt="Testing the stability system" title="Testing the stability system" class="left" />
-<img src="/assets/sb2/32te.jpg" alt="Testing the electronics" title="Testing the electronics" />
-<img src="/assets/sb2/28an.jpg" alt="Side-view of finalized robot" title="Side-view of finalized robot" />
-<img src="/assets/line.jpg" alt="" /></p>
+<p>In its current form, the mechanism is capable of displaying 4 different images, shown below. Due to its small resolution (5x5 pixel display), we were limited by the types of images we could show. Below are also some alternative images we considered but that were ultimately not chosen for the final design.</p>
 
+<p><img src="/assets/tile-designs.png" alt="Tile Designs." title="Tile Designs." /></p>
+
+<p>Almost every component in our mechanism was laser cut from 1/4” birch wood or 1/8” acrylic plastic sheets. The only components not cut out with the laser cutter were the camshafts, which were 3/8” Delrin rods machined with a mill to have a keyway.</p>
+
+<p><img src="/assets/cut_comps2.jpg" alt="Tile Designs." title="Tile Designs." /></p>
+
+<p>All the cams were designed to follow a modified sine wave motion during the rising and falling from one image position to the next. Using this type of cam design allowed our displacement, velocity, and acceleration functions to be continuous across all angles of rotation, which allows for smoother motion. The sizes of the cams were designed to keep all pitch angles below 30 degrees to avoid creating high lateral forces on the output roller shaft. We also utilized an online graphing calculator to visualize our cam designs, which you can interact with <a href="https://www.desmos.com/calculator/lsqv4ouwov">here</a>.</p>
+
+<p><a href="https://www.desmos.com/calculator/lsqv4ouwov"><img src="/assets/calc.png" alt="Graphing calculator." title="Graphing calculator." /></a></p>
+
+<blockquote>
+  <p><em>Graphing calculator used to visualize and design the cam profiles of our mechanism.</em></p>
+</blockquote>
+
+<p>Below is a video of our robot in action. Let me know in the comments if you would like to see more pictures or if you have any questions! :)</p>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lEPf8Sn7KHE" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+<p><br />
+<b>Team members:</b> Bruno De Hoyos, Matthew Brady, Paria Esmatloo</p>
+
+<p><b>Instructor:</b> Dr. Ashish Deshpande</p>
 
 </div>
 
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
-    
-      <li>
-        <h3>
-          <a href="/projects/display">
-            3D Shape Display
-            <small>04 Dec 2015</small>
-          </a>
-        </h3>
-      </li>
     
       <li>
         <h3>
@@ -212,6 +195,15 @@
           <a href="/projects/hacktx">
             HackTX&#58; Hardware + Software Toolkit
             <small>19 Oct 2014</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/projects/sb_robot">
+            Self-Balancing Robot - v1.0
+            <small>26 Sep 2014</small>
           </a>
         </h3>
       </li>
