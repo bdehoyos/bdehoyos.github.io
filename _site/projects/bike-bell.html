@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Reverse-Engineering of a Bicycle Bell &middot; Bruno De Hoyos
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300, 400">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51895443-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  <body class="theme-base-cust1 sidebar-overlay">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>Welcome to my website! This is a collection of some of my favorite personal projects. Please leave me a comment if you find anything interesting!<br>-Bruno</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about/">About Me</a>
+        
+      
+    
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/courses/">Related Courses</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/projects/">Projects</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/work/">Work Experience</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+
+    <!-- <span class="sidebar-nav-item">Currently v1.1.0</span> -->
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2016 Bruno De Hoyos. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrapmast">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Bruno De Hoyos</a>
+            <small>| bdehoyos.me</small>
+          </h3>
+        </div>
+      </div>
+      <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    </div>
+
+    <div class="wrap">
+      <div class="container content">
+        <div class="post">
+  <h1 class="post-title">Reverse-Engineering of a Bicycle Bell</h1>
+  <span class="post-date">05 Jul 2014</span>
+  <p><img src="/assets/exploded_drawing.jpg" alt="Exploded view drawing." title="Exploded view drawing" /></p>
+
+<blockquote>
+  <p><em>A project for the ‘Introduction to Engineering Design and Graphics’ course for mechanical engineers.</em></p>
+</blockquote>
+
+<!--more-->
+
+<p>My first college engineering class ever, ‘Introduction to Engineering Design and Graphics’, was one of the most fun and engaging courses of my freshmen year. Throughout the semester, I learned about drafting conventions used by engineers, 3D computer-aided design modeling, rapid prototyping technologies, and basic manufacturing processes. The course was combined with a semester-long project in which teams reverse-engineered a simple mechanically driven machine, analyzed and drafted its components, and finally recreated all its parts using 3D modeling software and a 3D printer.</p>
+
+<p>My group and I decided to work on a bicycle bell for this project, which had few parts and was completely driven by gears and springs. The initial stages of the project consisted of disassembling the bell into all its components and analyzing them to determine the purpose they served in the machine as well as determining the material of the parts and the most probable method used to produce them.</p>
+
+<p>After we had been introduced to proper drafting conventions, the next stage of the project was to measure and draw each part to scale in isometric projection, by hand. The picture below shows select drawings our team submitted as part of our final report.</p>
+
+<p><img src="/assets/isometric_drawings.jpg" alt="Isometric drawings of select parts." title="Isometric drawings of select parts" /></p>
+
+<blockquote>
+  <p><em>All of the parts shown above were drawn by me! :D</em></p>
+</blockquote>
+
+<p>After each part had been individually drawn and labeled, the parts then needed to be redrawn on a single page to scale in an exploded view diagram showing each part’s location within the bell. A part of that drawing is shown at the header of this article.</p>
+
+<p>Once these drawings had been finished, our team now needed to recreate each part using SolidWorks 3D modeling software according to the measurements that had been done earlier. After the part’s geometry and dimensions had been finalized within the software, 3-view drawings were made using SolidWorks, as shown below.</p>
+
+<p><img src="/assets/solidworks_3view.jpg" alt="3-view drawing made with SolidWorks" title="3-view drawing made with SolidWorks" /></p>
+
+<blockquote>
+  <p><em>A 3-view drawing showing the dimensions and features of the bell cover.</em></p>
+</blockquote>
+
+<p>With all the parts modeled in SolidWorks, it was only a matter of combining and linking all the files together to make a 3D rendering of the exploded view showing all the parts, similar to the one we had to sketch by hand.</p>
+
+<p><img src="/assets/exploded_s.jpg" alt="Exploded view drawing" title="Exploded view drawing" /></p>
+
+<p>At the end of the semester, our project culminated with the 3D printing of our SolidWorks part models, through the use of the mechanical engineering department’s 3D printers. Overall, our parts matched up pretty well with the actual bell parts, with the exception of the threaded parts. Unfortunately, the small threads were below the resolution of the printer and thus made our bolts and threaded rod unable to join together like a regular screw.</p>
+
+<p><img src="/assets/bell_comp.jpg" alt="Bell cover comparison" title="Bell cover comparison" /></p>
+
+<blockquote>
+  <p><em>A comparison between the actual metal bell cover, and the plastic, 3D printed cover that I modeled using SolidWorks. All dimensions matched perfectly, with the exception of the threads as described above.</em></p>
+</blockquote>
+
+<p><img src="/assets/quad.jpg" alt="Select parts comparison" title="Select parts comparison" />
+&gt; <em>Comparison of select 3D printed parts with their original counterparts</em></p>
+
+<p>My team and I were very satisfied with the outcome of the project, and I am very proud of all the work I put into it. This project allowed me to practice my drafting and 3D modeling skills on producing an actual product, and  helped me gain many abilities I did not previously have, such as working with SolidWorks, 3D printers, and even operating milling machines and lathes from the department’s machine shop!</p>
+
+<p><img src="/assets/3d_printed.jpg" alt="3D printed parts" title="3D printed parts" /></p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/projects/display">
+            3D Shape Display
+            <small>04 Dec 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/projects/hand">
+            Hand Visualization Project
+            <small>08 May 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/projects/hacktx">
+            HackTX&#58; Hardware + Software Toolkit
+            <small>19 Oct 2014</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'bdehoyos'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+      </div>
+    </div>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>
