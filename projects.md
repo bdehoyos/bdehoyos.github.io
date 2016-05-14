@@ -8,7 +8,7 @@ Stay tuned!
 
 ---
 
-# [3D Shape Display](/projects/display/)
+# [3D Shape Display](/projects/display)
 
 ![A cam-driven tile display.](/assets/display2.jpg "A cam-driven tile display.")
 
@@ -18,7 +18,7 @@ A low-resolution, robotic 3D shape display.
 
 ---
 
-# [Hand Visualization Project](/projects/hand/)
+# [Hand Visualization Project](/projects/hand)
 
 ![Realitime wireframe hand visualization.](/assets/hand2.png "Realitime wireframe hand visualization.")
 
@@ -28,7 +28,7 @@ A realtime, 3D rendering program for visualizing hand motion.
 
 ---
 
-# [HackTX: Hardware + Software Toolkit](/projects/hacktx/)
+# [HackTX: Hardware + Software Toolkit](/projects/hacktx)
 
 ![Utlrasonic sensor used to measure collisions at close proximities.](/assets/hack/checker.jpg "Utlrasonic sensor used to measure collisions at close proximities.")
 
@@ -38,7 +38,7 @@ A toolkit for helping visually impaired people perceive their surroundings.
 
 ---
 
-# [Self-Balancing Robot](/projects/sb_robot/)
+# [Self-Balancing Robot](/projects/sb_robot)
 
 ![Arduino micro used for the self-balancing robot.](/assets/sb_s.jpg "Arduino micro used for the self-balancing robot.")
 
@@ -48,7 +48,7 @@ A self-balancing robot built over the summer of 2014.
 
 ---
 
-# [Robot, Part 2](/projects/robot_2/)
+# [Robot, Part 2](/projects/robot_2)
 
 ![Robot, second generation.](/assets/r2_s2.jpg "Robot, second generation.")
 
@@ -58,7 +58,7 @@ Simple robot with ultrasonic sensor and H-bridge controller. Summer 2014.
 
 ---
 
-# [Calculator App](/projects/calculator/)
+# [Calculator App](/projects/calculator)
 
 ![My calculator app.](/assets/calc_s.jpg "My calculator app.")
 
@@ -68,7 +68,7 @@ iOS app project. Summer 2014.
 
 ---
 
-# [Robot, Part 1](/projects/robot_1/)
+# [Robot, Part 1](/projects/robot_1)
 
 ![Robot, first generation.](/assets/robot_s.jpg "Robot, first generation.")
 
@@ -78,7 +78,7 @@ A robot I built and programmed from a robot starter kit. Winter 2013.
 
 ---
 
-# [Reverse-Engineering of a Bicycle Bell](/projects/bike-bell/)
+# [Reverse-Engineering of a Bicycle Bell](/projects/bike-bell)
 
 ![Bicycle Bell Project](/assets/3d_printed.jpg "Bicycle Bell Project")
 
@@ -88,7 +88,7 @@ A project for the 'Introduction to Engineering Design and Graphics' course for m
 
 ---
 
-# [Cardboard Lamborghini Gallardo](/projects/lambo/)
+# [Cardboard Lamborghini Gallardo](/projects/lambo)
 
 ![Cardboard Lamborghini.](/assets/car_small.JPG "Cardboard Lamborghini")
 
