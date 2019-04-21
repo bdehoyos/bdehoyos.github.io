@@ -8,7 +8,7 @@ title: Projects
 
 # [Additively Manufactured Music Box](/projects/music)
 
-![Additively Manufactured Music Box.](/assets/music_box_3.jpg "Additively Manufactured Music Box.")
+![Additively Manufactured Music Box.](/assets/music_box_3.JPG "Additively Manufactured Music Box.")
 
 <div class="message">
 An additively manufactured music box capable of playing user-customized music.
