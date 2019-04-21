@@ -10,17 +10,17 @@ permalink:        pretty
 
 # Setup
 title:            Bruno De Hoyos
-tagline:          '| bdehoyos.me'
-description:      'Welcome to my website! This is a collection of some of my favorite personal projects. Please leave me a comment if you find anything interesting!<br>-Bruno'
-url:              http://bdehoyos.me
+tagline:          '| bru.uno'
+description:      'bru.uno<br>A collection of personal projects.<br><br>'
+url:              http://bru.uno
 
-paginate:         5
+paginate:         7
 
 excerpt_separator: <!--more-->
 
 author:
   name:           'Bruno De Hoyos'
-  url:            http://bdehoyos.me
+  url:            http://bru.uno
 
 # Custom vars
 version:          1.1.0

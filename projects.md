@@ -3,8 +3,26 @@ layout: page
 title: Projects
 ---
 
-More details coming soon.
-Stay tuned!
+
+---
+
+# [Additively Manufactured Music Box](/projects/music)
+
+![Additively Manufactured Music Box.](/assets/music_box_3.jpg "Additively Manufactured Music Box.")
+
+<div class="message">
+An additively manufactured music box capable of playing user-customized music.
+</div>
+
+---
+
+# [Automated Wafer Handling Robot](/projects/wafer)
+
+![Automated Wafer Handling Robot.](/assets/robot_table_3.png "Automated Wafer Handling Robot.")
+
+<div class="message">
+A low-cost, high-speed silicon wafer handling robot.
+</div>
 
 ---
 

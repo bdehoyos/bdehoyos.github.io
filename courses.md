@@ -3,6 +3,14 @@ layout: page
 title: Related Courses
 ---
 
+### Spring 2016
+
+- ME 266K - Mechanical Engineering Design Project
+- ME 266P - Design Project Laboratory
+- ME 379M - Additive Manufacturing
+- CS 329E - Elements of Mobile Computing
+- CS 324E - Elements of Graphics and Visualization
+
 ### Fall 2015
 
 - ME 366J - Mechanical Engineering Design Methodology

@@ -5,37 +5,42 @@ title: Work Experience
 
 ---
 
-### GRDP Operations Intern, [Cameron](http://www.c-a-m.com/)
+### Undergraduate Research Assistant, [ReNeu Robotics](http://www.me.utexas.edu/~reneu/)
+January 2015 - May 2016
+
+- Developed a 3D graphics program to visualize human hand motion under a robotic exoskeleton
+- Created a wiki page to document project knowledge and facilitate future collaboration
+- Studied OpenGL computer graphics and anatomical models of human hands
+- Performed dynamic simulations on custom-made hand musculoskeletal models to estimate muscle activations from kinematic data
+
+---
+
+### GRDP Operations Intern, [Cameron](http://cameron.slb.com/)
 
 (Global Rotational Development Program) <br>
 June 2015 - August 2015
 
-- Studied and applied Lean Six Sigma methodologies to identify improvement areas in pressure testing process
-- Created and deployed standardized pressure testing materials to over 30 North American aftermarket facilities
+- Applied Lean Six Sigma methodologies to identify improvement areas in pressure testing process
+- Created and deployed standardized pressure testing training documents to over 30 North American aftermarket facilities
 - Edited, narrated, and deployed a web-based pressure testing training course for over 750 employees across North America
-
----
-
-### Undergraduate Research Assistant, [ReNeu Robotics](http://www.me.utexas.edu/~reneu/)
-January 2015 - May 2015
-
-- Developed a 3D graphics program to visualize motion of a human hand under a robotic exoskeleton
-- Studied computer graphics, rendering, and modeling
+- Collaborated with engineering, marketing, HSE, and management teams to standardize processes
+- Composed and submitted financial justifications for two global $25M savings projects
 
 ---
 
 ### Undergraduate Research Assistant, [Texas Petawatt Laser](http://texaspetawatt.ph.utexas.edu/)
 September 2014 - January 2015
 
-- Assembled laser configurations and aligned equipment on optical table
-- Worked in student machine shop to produce parts and track fabrication process
+- Designed, machined, and built support stands that increased optical table space by 10%
+- Assembled laser configurations and aligned optomechanical components on optical table
+- Worked in student machine shop to modify parts and track fabrication process
 
 ---
 
 ### Student Technician, [Applied Research Laboratories](http://www.arlut.utexas.edu/)
 May 2013 - December 2013
 
-- Worked primarily in MATLAB to perform data analysis and various forms of data processing of ocean environment database
+- Worked primarily in MATLAB to perform data analysis and data processing of ocean environment database
 - Redesigned and implemented several MATLAB GUIs to increase functionality and encompass better ease of use with existing code
 - Augmented internal toolkit with custom functions to facilitate data processing over the command line interface
 - Developed various functional, unit, and regression test functions to ensure working code
