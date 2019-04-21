@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Bruno De Hoyos</title>
- <link href="http://bdehoyos.me/atom.xml" rel="self"/>
- <link href="http://bdehoyos.me/"/>
- <updated>2019-04-21T15:32:40-04:00</updated>
- <id>http://bdehoyos.me</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-04-21T16:23:10-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Bruno De Hoyos</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Additively Manufactured Music Box</title>
-   <link href="http://bdehoyos.me/projects/music"/>
+   <link href="http://localhost:4000/projects/music"/>
    <updated>2016-05-05T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/music</id>
+   <id>http://localhost:4000/projects/music</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/music_box_4.png&quot; alt=&quot;Additively Manufactured Music Box.&quot; title=&quot;Additively Manufactured Music Box.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -48,9 +48,9 @@ Dr. Carolyn Seepersad&lt;/p&gt;
  
  <entry>
    <title>Automated Wafer Handling Robot</title>
-   <link href="http://bdehoyos.me/projects/wafer"/>
+   <link href="http://localhost:4000/projects/wafer"/>
    <updated>2016-05-03T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/wafer</id>
+   <id>http://localhost:4000/projects/wafer</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/master_full_4.png&quot; alt=&quot;Additively Manufactured Music Box.&quot; title=&quot;Additively Manufactured Music Box.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -73,9 +73,9 @@ Dr. Michael Cullinan&lt;/p&gt;
  
  <entry>
    <title>3D Shape Display</title>
-   <link href="http://bdehoyos.me/projects/display"/>
+   <link href="http://localhost:4000/projects/display"/>
    <updated>2015-12-04T00:00:00-05:00</updated>
-   <id>http://bdehoyos.me/projects/display</id>
+   <id>http://localhost:4000/projects/display</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/display_s.png&quot; alt=&quot;3D Shape Display.&quot; title=&quot;3D Shape Display.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -127,9 +127,9 @@ Dr. Ashish Deshpande&lt;/p&gt;
  
  <entry>
    <title>Hand Visualization Project</title>
-   <link href="http://bdehoyos.me/projects/hand"/>
+   <link href="http://localhost:4000/projects/hand"/>
    <updated>2015-05-08T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/hand</id>
+   <id>http://localhost:4000/projects/hand</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/hand2.png&quot; alt=&quot;Hand Visualization Project.&quot; title=&quot;Hand Visualization Project.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -140,9 +140,9 @@ Dr. Ashish Deshpande&lt;/p&gt;
  
  <entry>
    <title>HackTX&#58; Hardware + Software Toolkit</title>
-   <link href="http://bdehoyos.me/projects/hacktx"/>
+   <link href="http://localhost:4000/projects/hacktx"/>
    <updated>2014-10-19T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/hacktx</id>
+   <id>http://localhost:4000/projects/hacktx</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/hack/gatorade.jpg&quot; alt=&quot;Image identifying app.&quot; title=&quot;Image identifying app.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -173,9 +173,9 @@ Dr. Ashish Deshpande&lt;/p&gt;
  
  <entry>
    <title>Self-Balancing Robot - v1.0</title>
-   <link href="http://bdehoyos.me/projects/sb_robot"/>
+   <link href="http://localhost:4000/projects/sb_robot"/>
    <updated>2014-09-26T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/robot3</id>
+   <id>http://localhost:4000/projects/robot3</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/r_wide_s.jpg&quot; alt=&quot;The self-balancing robot!&quot; title=&quot;The self-balancing robot!&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -231,9 +231,9 @@ Dr. Ashish Deshpande&lt;/p&gt;
  
  <entry>
    <title>Robot, Part 2</title>
-   <link href="http://bdehoyos.me/projects/robot_2"/>
+   <link href="http://localhost:4000/projects/robot_2"/>
    <updated>2014-07-17T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/robot2</id>
+   <id>http://localhost:4000/projects/robot2</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/robot2_s.jpg&quot; alt=&quot;Robot, second generation.&quot; title=&quot;Robot, second generation.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -244,9 +244,9 @@ Dr. Ashish Deshpande&lt;/p&gt;
  
  <entry>
    <title>Robot, Part 1</title>
-   <link href="http://bdehoyos.me/projects/robot_1"/>
+   <link href="http://localhost:4000/projects/robot_1"/>
    <updated>2014-07-17T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/robot</id>
+   <id>http://localhost:4000/projects/robot</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/robot_s.jpg&quot; alt=&quot;Robot, first generation.&quot; title=&quot;Robot, first generation.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -304,9 +304,9 @@ Dr. Ashish Deshpande&lt;/p&gt;
  
  <entry>
    <title>7-Segment Display Driver Circuit</title>
-   <link href="http://bdehoyos.me/projects/circuit"/>
+   <link href="http://localhost:4000/projects/circuit"/>
    <updated>2014-07-17T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/counter</id>
+   <id>http://localhost:4000/projects/counter</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/circuit_s.jpg&quot; alt=&quot;Counting circuit.&quot; title=&quot;Counting circuit.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -328,9 +328,9 @@ Dr. Ashish Deshpande&lt;/p&gt;
  
  <entry>
    <title>Calculator App</title>
-   <link href="http://bdehoyos.me/projects/calculator"/>
+   <link href="http://localhost:4000/projects/calculator"/>
    <updated>2014-07-17T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/calculator</id>
+   <id>http://localhost:4000/projects/calculator</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/calc_s.jpg&quot; alt=&quot;My calculator app.&quot; title=&quot;My calculator app.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -341,9 +341,9 @@ Dr. Ashish Deshpande&lt;/p&gt;
  
  <entry>
    <title>Starting with Arduino</title>
-   <link href="http://bdehoyos.me/projects/arduino"/>
+   <link href="http://localhost:4000/projects/arduino"/>
    <updated>2014-07-17T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/arduino</id>
+   <id>http://localhost:4000/projects/arduino</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/ardu_s.jpg&quot; alt=&quot;Simple Arduino circuit.&quot; title=&quot;Simple Arduino circuit.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -354,9 +354,9 @@ Dr. Ashish Deshpande&lt;/p&gt;
  
  <entry>
    <title>Reverse-Engineering of a Bicycle Bell</title>
-   <link href="http://bdehoyos.me/projects/bike-bell"/>
+   <link href="http://localhost:4000/projects/bike-bell"/>
    <updated>2014-07-05T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/bike-bell</id>
+   <id>http://localhost:4000/projects/bike-bell</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/exploded_drawing.jpg&quot; alt=&quot;Exploded view drawing.&quot; title=&quot;Exploded view drawing&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -399,8 +399,10 @@ Dr. Ashish Deshpande&lt;/p&gt;
   &lt;p&gt;&lt;em&gt;A comparison between the actual metal bell cover, and the plastic, 3D printed cover that I modeled using SolidWorks. All dimensions matched perfectly, with the exception of the threads as described above.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/quad.jpg&quot; alt=&quot;Select parts comparison&quot; title=&quot;Select parts comparison&quot; /&gt;
-&amp;gt; &lt;em&gt;Comparison of select 3D printed parts with their original counterparts&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/quad.jpg&quot; alt=&quot;Select parts comparison&quot; title=&quot;Select parts comparison&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Comparison of select 3D printed parts with their original counterparts&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;My team and I were very satisfied with the outcome of the project, and I am very proud of all the work I put into it. This project allowed me to practice my drafting and 3D modeling skills on producing an actual product, and  helped me gain many abilities I did not previously have, such as working with SolidWorks, 3D printers, and even operating milling machines and lathes from the department’s machine shop!&lt;/p&gt;
 
@@ -410,9 +412,9 @@ Dr. Ashish Deshpande&lt;/p&gt;
  
  <entry>
    <title>Cardboard Lamborghini Gallardo</title>
-   <link href="http://bdehoyos.me/projects/lambo"/>
+   <link href="http://localhost:4000/projects/lambo"/>
    <updated>2014-07-04T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/projects/cardboard-lambo</id>
+   <id>http://localhost:4000/projects/cardboard-lambo</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/car_small.JPG&quot; alt=&quot;The cardboard Lamborghini.&quot; title=&quot;The finished product.&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -463,9 +465,9 @@ Several months before graduating I took the car back to school and gave it to my
  
  <entry>
    <title>Hello World!</title>
-   <link href="http://bdehoyos.me/2014/06/11/hello-world/"/>
+   <link href="http://localhost:4000/2014/06/11/hello-world/"/>
    <updated>2014-06-11T00:00:00-04:00</updated>
-   <id>http://bdehoyos.me/2014/06/11/hello-world</id>
+   <id>http://localhost:4000/2014/06/11/hello-world</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/hello.jpg&quot; alt=&quot;Hello World!&quot; title=&quot;Hello World!&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Today is my website’s birthday!&lt;/p&gt;

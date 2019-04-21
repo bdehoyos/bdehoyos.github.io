@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
 

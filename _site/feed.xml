@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-21T16:23:10-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bruno De Hoyos</title><subtitle>bdehoyos.me&lt;br&gt;A collection of personal projects.&lt;br&gt;&lt;br&gt;</subtitle><author><name>Bruno De Hoyos</name></author><entry><title type="html">Additively Manufactured Music Box</title><link href="http://localhost:4000/projects/music" rel="alternate" type="text/html" title="Additively Manufactured Music Box" /><published>2016-05-05T00:00:00-04:00</published><updated>2016-05-05T00:00:00-04:00</updated><id>http://localhost:4000/projects/music</id><content type="html" xml:base="http://localhost:4000/projects/music">&lt;p&gt;&lt;img src=&quot;/assets/music_box_4.png&quot; alt=&quot;Additively Manufactured Music Box.&quot; title=&quot;Additively Manufactured Music Box.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;The design of an additively manufactured music box that allows a user to easily create, 3D-print, and play customized music.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/music_box_2.png&quot; alt=&quot;Additively Manufactured Music Box.&quot; title=&quot;Additively Manufactured Music Box.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;The final design of the music box was manufactured using an SLS printer, while the customizable drum was made with an FDM printer.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;Team members:&lt;/b&gt;&lt;br /&gt;
+Bruno De Hoyos&lt;br /&gt;
+Ana Christine de Oliveira&lt;br /&gt;
+Paria Esmatloo&lt;br /&gt;
+Saadia Razvi&lt;br /&gt;
+Rohit John Varghese&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Instructor:&lt;/b&gt;&lt;br /&gt;
+Dr. Carolyn Seepersad&lt;/p&gt;</content><author><name>Bruno De Hoyos</name></author><summary type="html">The design of an additively manufactured music box that allows a user to easily create, 3D-print, and play customized music.</summary></entry><entry><title type="html">Automated Wafer Handling Robot</title><link href="http://localhost:4000/projects/wafer" rel="alternate" type="text/html" title="Automated Wafer Handling Robot" /><published>2016-05-03T00:00:00-04:00</published><updated>2016-05-03T00:00:00-04:00</updated><id>http://localhost:4000/projects/wafer</id><content type="html" xml:base="http://localhost:4000/projects/wafer">&lt;p&gt;&lt;img src=&quot;/assets/master_full_4.png&quot; alt=&quot;Additively Manufactured Music Box.&quot; title=&quot;Additively Manufactured Music Box.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;A low cost wafer handling robot to support in-line metrology in semiconductor manufacturing.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;Team members:&lt;/b&gt;&lt;br /&gt;
+Bruno De Hoyos&lt;br /&gt;
+Andrew Duenner&lt;br /&gt;
+Marianna Gonzalez&lt;br /&gt;
+Nathan Riojas&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Faculty Advisor:&lt;/b&gt;&lt;br /&gt;
+Dr. Michael Cullinan&lt;/p&gt;</content><author><name>Bruno De Hoyos</name></author><summary type="html">A low cost wafer handling robot to support in-line metrology in semiconductor manufacturing.</summary></entry><entry><title type="html">3D Shape Display</title><link href="http://localhost:4000/projects/display" rel="alternate" type="text/html" title="3D Shape Display" /><published>2015-12-04T00:00:00-05:00</published><updated>2015-12-04T00:00:00-05:00</updated><id>http://localhost:4000/projects/display</id><content type="html" xml:base="http://localhost:4000/projects/display">&lt;p&gt;&lt;img src=&quot;/assets/display_s.png&quot; alt=&quot;3D Shape Display.&quot; title=&quot;3D Shape Display.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;A cam-driven robotic mechanism for displaying 3D content through a matrix of tiles.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This robotic 3D shape display was built as part of the &lt;em&gt;ME 379M Robot Mechanism Design&lt;/em&gt; course at the University of Texas at Austin. Our goal was to create a robotic mechanism that could display various images and shapes with a single degree of freedom (i.e. with a single actuator). This 3D display was inspired by &lt;a href=&quot;http://tangible.media.mit.edu/project/inform/&quot;&gt;inFORM&lt;/a&gt;, a dynamic shape display with a much higher resolution and functionality developed at MIT. Unlike inFORM, all of the motions of this 3D display are driven by internal cams, and are thus ‘hardcoded’ into the design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/internal_s.jpg&quot; alt=&quot;Internal cams.&quot; title=&quot;Internal cams.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Internal cam structure of the mechanism. Each cam drives the motion of one tile on the surface.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In its current form, the mechanism is capable of displaying 4 different images, shown below. Due to its small resolution (5x5 pixel display), we were limited by the types of images we could show. Below are also some alternative images we considered but that were ultimately not chosen for the final design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tile-designs.png&quot; alt=&quot;Tile Designs.&quot; title=&quot;Tile Designs.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Almost every component in our mechanism was laser cut from 1/4” birch wood or 1/8” acrylic plastic sheets. The only components not cut out with the laser cutter were the camshafts, which were 3/8” Delrin rods machined with a mill to have a keyway.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cut_comps2.jpg&quot; alt=&quot;Tile Designs.&quot; title=&quot;Tile Designs.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All the cams were designed to follow a modified sine wave motion during the rising and falling from one image position to the next. Using this type of cam design allowed our displacement, velocity, and acceleration functions to be continuous across all angles of rotation, which allows for smoother motion. The sizes of the cams were designed to keep all pitch angles below 30 degrees to avoid creating high lateral forces on the output roller shaft. We also utilized an online graphing calculator to visualize our cam designs, which you can interact with &lt;a href=&quot;https://www.desmos.com/calculator/lsqv4ouwov&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.desmos.com/calculator/lsqv4ouwov&quot;&gt;&lt;img src=&quot;/assets/calc.png&quot; alt=&quot;Graphing calculator.&quot; title=&quot;Graphing calculator.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Graphing calculator used to visualize and design the cam profiles of our mechanism.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Below is a video of our robot in action. Let me know in the comments if you would like to see more pictures or if you have any questions! :)&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lEPf8Sn7KHE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;Team members:&lt;/b&gt;&lt;br /&gt;
+Bruno De Hoyos&lt;br /&gt;
+Matthew Brady&lt;br /&gt;
+Paria Esmatloo&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Instructor:&lt;/b&gt;&lt;br /&gt;
+Dr. Ashish Deshpande&lt;/p&gt;</content><author><name>Bruno De Hoyos</name></author><summary type="html">A cam-driven robotic mechanism for displaying 3D content through a matrix of tiles.</summary></entry><entry><title type="html">Hand Visualization Project</title><link href="http://localhost:4000/projects/hand" rel="alternate" type="text/html" title="Hand Visualization Project" /><published>2015-05-08T00:00:00-04:00</published><updated>2015-05-08T00:00:00-04:00</updated><id>http://localhost:4000/projects/hand</id><content type="html" xml:base="http://localhost:4000/projects/hand">&lt;p&gt;&lt;img src=&quot;/assets/hand2.png&quot; alt=&quot;Hand Visualization Project.&quot; title=&quot;Hand Visualization Project.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;A 3D rendering program for visualizing hand movements under a robotic exoskeleton.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Bruno De Hoyos</name></author><summary type="html">A 3D rendering program for visualizing hand movements under a robotic exoskeleton.</summary></entry><entry><title type="html">HackTX: Hardware + Software Toolkit</title><link href="http://localhost:4000/projects/hacktx" rel="alternate" type="text/html" title="HackTX&amp;#58; Hardware + Software Toolkit" /><published>2014-10-19T00:00:00-04:00</published><updated>2014-10-19T00:00:00-04:00</updated><id>http://localhost:4000/projects/hacktx</id><content type="html" xml:base="http://localhost:4000/projects/hacktx">&lt;p&gt;&lt;img src=&quot;/assets/hack/gatorade.jpg&quot; alt=&quot;Image identifying app.&quot; title=&quot;Image identifying app.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;A hardware and software toolkit to help visually impaired people perceive their surroundings.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/hack/checker.jpg&quot; alt=&quot;H-bridge&quot; title=&quot;H-bridge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ultrasonic sensor with audible feedback to provide warnings from collisions with objects in close proximity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/hack/kinect.png&quot; alt=&quot;H-bridge&quot; title=&quot;H-bridge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Microsoft Kinect data used to create a depth map of a room and fed into an iPhone application to provide haptic feedback based on a user’s finger position over the image.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/hack/oreo.jpg&quot; alt=&quot;H-bridge&quot; title=&quot;H-bridge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image recognition API used with an iPhone camera to provide description of objects through the iPhone’s screen and speakers.&lt;/em&gt;&lt;/p&gt;</content><author><name>Bruno De Hoyos</name></author><summary type="html">A hardware and software toolkit to help visually impaired people perceive their surroundings.</summary></entry><entry><title type="html">Self-Balancing Robot - v1.0</title><link href="http://localhost:4000/projects/sb_robot" rel="alternate" type="text/html" title="Self-Balancing Robot - v1.0" /><published>2014-09-26T00:00:00-04:00</published><updated>2014-09-26T00:00:00-04:00</updated><id>http://localhost:4000/projects/robot3</id><content type="html" xml:base="http://localhost:4000/projects/sb_robot">&lt;p&gt;&lt;img src=&quot;/assets/r_wide_s.jpg&quot; alt=&quot;The self-balancing robot!&quot; title=&quot;The self-balancing robot!&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Feedback loops. Arduino micro. Gyroscope. Accelerometer. Fun.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Description for this project coming soon. In the meantime, feel free to browse over the pictures and comment below if you have a question about something. :)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/sb2/1hb.jpg&quot; alt=&quot;H-bridge&quot; title=&quot;H-bridge&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/2ar.jpg&quot; alt=&quot;Arduino&quot; title=&quot;Arduino&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/3cb.jpg&quot; alt=&quot;Marking the cardboard&quot; title=&quot;Marking the cardboard&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/4cb.jpg&quot; alt=&quot;Cutting the cardboard&quot; title=&quot;Cutting the cardboard&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/5cb.jpg&quot; alt=&quot;Cutting the cardboard&quot; title=&quot;Cutting the cardboard&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/6cb.jpg&quot; alt=&quot;Stacking the cardboard pieces&quot; title=&quot;Stacking the cardboard piecies&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/7pl.jpg&quot; alt=&quot;Plexiglass cover&quot; title=&quot;Plexiglass cover&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/8cb.jpg&quot; alt=&quot;Cardboard Pieces&quot; title=&quot;Cardboard pieces&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/9as.jpg&quot; alt=&quot;Cardboard pieces glued on plexiglass&quot; title=&quot;Cardboard pieces glued on plexiglass&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/10si.jpg&quot; alt=&quot;Side-view showing motors in between cardboard pieces&quot; title=&quot;Side-view showing motors in between cardboard pieces&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/11cu.jpg&quot; alt=&quot;Hole cut-out for passing cables&quot; title=&quot;Hole cut-out for passing cables&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/12as.jpg&quot; alt=&quot;Close-up of cardboard assembly&quot; title=&quot;Close-up of cardboard assembly&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/13mo.jpg&quot; alt=&quot;Close-up of motors&quot; title=&quot;Close-up of motors&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/14tq.jpg&quot; alt=&quot;Robot frame&quot; title=&quot;Robot frame&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/15ci.jpg&quot; alt=&quot;Installing the H-bridge&quot; title=&quot;Installing the H-bridge&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/16se.jpg&quot; alt=&quot;Testing the accelerometer and gyroscope&quot; title=&quot;Testing the accelerometer and gyroscope&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/17co.jpg&quot; alt=&quot;Testing the sensors before installing&quot; title=&quot;Testing the sensors before installing&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/18as.jpg&quot; alt=&quot;Sensors and H-bridge in their place&quot; title=&quot;Sensors and H-bridge in their place&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/19ar.jpg&quot; alt=&quot;Close-up of Arduino&quot; title=&quot;Close-up of Arduino&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/20se.jpg&quot; alt=&quot;Close-up of sensors&quot; title=&quot;Close-up of sensors&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/21as.jpg&quot; alt=&quot;Everything glued in its place&quot; title=&quot;Everything glued in its place&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/22hb.jpg&quot; alt=&quot;Close-up of installed H-bridge&quot; title=&quot;Close-up of installed H-bridge&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/23co.jpg&quot; alt=&quot;Batteries and covers placed on&quot; title=&quot;Batteries and cover placed on&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/24cu.jpg&quot; alt=&quot;Close-up of Arduino and battery pack&quot; title=&quot;Close-up of Arduino and battery pack&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/25hb.jpg&quot; alt=&quot;Close-up of covered H-bridge&quot; title=&quot;Close-up of covered H-bridge&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/26ar.jpg&quot; alt=&quot;Installed Arduino&quot; title=&quot;Installed Arduino&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/27su.jpg&quot; alt=&quot;Finalized assembly&quot; title=&quot;Finalized assembly&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/30ba.jpg&quot; alt=&quot;Close-up of covered Arduino and batter pack&quot; title=&quot;Close-up of covered arduino and battery pack&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/34fi.jpg&quot; alt=&quot;Final product&quot; title=&quot;Final product&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/29tv.jpg&quot; alt=&quot;Top-view of finalized robot&quot; title=&quot;Top-view of finalized robot&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/31ba.jpg&quot; alt=&quot;Back-view of finalized robot&quot; title=&quot;Back-view of finalized robot&quot; class=&quot;right&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/33te.jpg&quot; alt=&quot;Testing the stability system&quot; title=&quot;Testing the stability system&quot; class=&quot;left&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/32te.jpg&quot; alt=&quot;Testing the electronics&quot; title=&quot;Testing the electronics&quot; /&gt;
+&lt;img src=&quot;/assets/sb2/28an.jpg&quot; alt=&quot;Side-view of finalized robot&quot; title=&quot;Side-view of finalized robot&quot; /&gt;
+&lt;img src=&quot;/assets/line.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Bruno De Hoyos</name></author><summary type="html">Feedback loops. Arduino micro. Gyroscope. Accelerometer. Fun.</summary></entry><entry><title type="html">Starting with Arduino</title><link href="http://localhost:4000/projects/arduino" rel="alternate" type="text/html" title="Starting with Arduino" /><published>2014-07-17T00:00:00-04:00</published><updated>2014-07-17T00:00:00-04:00</updated><id>http://localhost:4000/projects/arduino</id><content type="html" xml:base="http://localhost:4000/projects/arduino">&lt;p&gt;&lt;img src=&quot;/assets/ardu_s.jpg&quot; alt=&quot;Simple Arduino circuit.&quot; title=&quot;Simple Arduino circuit.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;My first encounter with the infamous Arduino. Summer 2014.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Bruno De Hoyos</name></author><summary type="html">My first encounter with the infamous Arduino. Summer 2014.</summary></entry><entry><title type="html">Calculator App</title><link href="http://localhost:4000/projects/calculator" rel="alternate" type="text/html" title="Calculator App" /><published>2014-07-17T00:00:00-04:00</published><updated>2014-07-17T00:00:00-04:00</updated><id>http://localhost:4000/projects/calculator</id><content type="html" xml:base="http://localhost:4000/projects/calculator">&lt;p&gt;&lt;img src=&quot;/assets/calc_s.jpg&quot; alt=&quot;My calculator app.&quot; title=&quot;My calculator app.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;My first working iOS app. Summer 2014.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Bruno De Hoyos</name></author><summary type="html">My first working iOS app. Summer 2014.</summary></entry><entry><title type="html">7-Segment Display Driver Circuit</title><link href="http://localhost:4000/projects/circuit" rel="alternate" type="text/html" title="7-Segment Display Driver Circuit" /><published>2014-07-17T00:00:00-04:00</published><updated>2014-07-17T00:00:00-04:00</updated><id>http://localhost:4000/projects/counter</id><content type="html" xml:base="http://localhost:4000/projects/circuit">&lt;p&gt;&lt;img src=&quot;/assets/circuit_s.jpg&quot; alt=&quot;Counting circuit.&quot; title=&quot;Counting circuit.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;A simple decade counting circuit done in mechatronics class.&lt;br /&gt;Summer 2014.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Description for this project coming soon.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/count1.jpg&quot; alt=&quot;Counting circuit&quot; title=&quot;Counting circuit&quot; /&gt;
+&lt;img src=&quot;/assets/count2.jpg&quot; alt=&quot;Work table&quot; title=&quot;Work table&quot; /&gt;&lt;/p&gt;</content><author><name>Bruno De Hoyos</name></author><summary type="html">A simple decade counting circuit done in mechatronics class.Summer 2014.</summary></entry><entry><title type="html">Robot, Part 2</title><link href="http://localhost:4000/projects/robot_2" rel="alternate" type="text/html" title="Robot, Part 2" /><published>2014-07-17T00:00:00-04:00</published><updated>2014-07-17T00:00:00-04:00</updated><id>http://localhost:4000/projects/robot2</id><content type="html" xml:base="http://localhost:4000/projects/robot_2">&lt;p&gt;&lt;img src=&quot;/assets/robot2_s.jpg&quot; alt=&quot;Robot, second generation.&quot; title=&quot;Robot, second generation.&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Robot 2. Arduino Micro + H-bridge + ultrasonic sensors.&lt;br /&gt;Summer 2014.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Bruno De Hoyos</name></author><summary type="html">Robot 2. Arduino Micro + H-bridge + ultrasonic sensors.Summer 2014.</summary></entry></feed>
